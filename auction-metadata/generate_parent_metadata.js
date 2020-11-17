@@ -33,7 +33,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
 
         let additionalMetadataAttributes = {};
 
-        await Promise.all(Object.keys(folderMetadata.files).map(async key => {
+        Promise.all(Object.keys(folderMetadata.files).map(async key => {
           let fileName = folderMetadata.files[key];
 
           const fullPath = `${BASE_FOLDER}/${fileName}`;
@@ -49,28 +49,30 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
 
           // record the additional metadata attribute
           additionalMetadataAttributes[key] = `${process.env.PINATA_GATEWAY_URL}/${fileHash}`;
-        }));
+        }))
+          .then(async () => {
+            // Generate child token metadata
+            const parentNftMetadata = {
+              name: folderMetadata.name,
+              description: folderMetadata.description,
+              external_url: "https://www.digitalax.xyz",
+              ...additionalMetadataAttributes,
+              attributes: [
+                ...folderMetadata.attributes
+              ]
+            };
 
-        // Generate child token metadata
-        const parentNftMetadata = {
-          name: folderMetadata.name,
-          description: folderMetadata.description,
-          external_url: "https://www.digitalax.xyz",
-          ...additionalMetadataAttributes,
-          attributes: [
-            ...folderMetadata.attributes
-          ]
-        };
+            // Pin metadata
+            const tokenMetadataHash = await pinJsonToIpfs(parentNftMetadata);
+            console.log(`Parent NFT metadata pinned [${tokenMetadataHash}]`);
 
-        // Pin metadata
-        const tokenMetadataHash = await pinJsonToIpfs(parentNftMetadata);
-        console.log(`Parent NFT metadata pinned [${tokenMetadataHash}]`);
-
-        // Write file back to child folder
-        fs.writeFileSync(`${BASE_FOLDER}/hash.json`, JSON.stringify({
-          hash: tokenMetadataHash
-        }, null, 2));
-
+            // Write file back to child folder
+            fs.writeFileSync(`${BASE_FOLDER}/hash.json`, JSON.stringify({
+              hash: tokenMetadataHash
+            }, null, 2));
+          }).catch((e) => {
+            throw new Error(e);
+          });
       }
     }
   });
