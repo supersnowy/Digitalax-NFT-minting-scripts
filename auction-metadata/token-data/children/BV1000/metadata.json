@@ -1,0 +1,14 @@
+{
+  "name": "BV1000",
+  "description": "BV1000",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "BV"
+    },
+    {
+      "trait_type": "String",
+      "value": "1000"
+    }
+  ]
+}

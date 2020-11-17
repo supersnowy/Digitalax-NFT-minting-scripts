@@ -1,0 +1,14 @@
+{
+  "name": "SL7655",
+  "description": "SL7655",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "SL"
+    },
+    {
+      "trait_type": "String",
+      "value": "7654"
+    }
+  ]
+}
