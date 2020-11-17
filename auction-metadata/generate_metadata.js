@@ -54,7 +54,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
         };
 
         // Pin metadata
-        const tokenMetadataHash = await pinJsonToIpfs(childNftMetadata, true);
+        const tokenMetadataHash = await pinJsonToIpfs(childNftMetadata);
         console.log(`Child NFT metadata pinned [${tokenMetadataHash}]`);
 
         // Write file back to child folder
