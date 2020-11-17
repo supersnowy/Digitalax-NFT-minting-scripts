@@ -1,0 +1,29 @@
+{
+  "name": "ICO Suit",
+  "description": "The ICO Suit takes us back to the 2017 boom when ICOs were all the craze. There were scams, there were pumps, there were dumps. Some yielded massive returns with good exit timing. But, numerous others came to the heavy hearts of investors that loaded up in the hope of finding the next Google amongst the thousands of thorns, only to realise that these altcoins just won't ever outperform BTC (*cough* YFI exception). \n\nThere is no doubt that a man's suit is the most versatile and universally accepted item of clothing in his wardrobe. The ICO suit matches just this level of universality- covering every ICO to date as a mash up of all that was and all that could have been. It features a single breasted American cut with peaked lapels.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Album Corvum"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "08"
+    }
+  ],
+  "files": {
+    "image": "ICOsuit_4k_front_V2.png",
+    "animation_url": "ICOsuit.mp4",
+    "image_side": "ICOsuit_4k_side.png",
+    "image_back": "ICOsuit_4k_back.png",
+    "fbx": "ICO_suit.fbx"
+  }
+}

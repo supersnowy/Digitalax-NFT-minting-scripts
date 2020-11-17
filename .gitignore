@@ -111,3 +111,9 @@ build
 solc-sjw-macos-x64
 slither-output.log
 .solcx-lock-0.6.12
+
+## Exclude raw assets
+/auction-metadata/token-data/**/*.fbx
+/auction-metadata/token-data/**/*.mp4
+/auction-metadata/token-data/**/*.png
+/auction-metadata/token-data/**/*.jpg

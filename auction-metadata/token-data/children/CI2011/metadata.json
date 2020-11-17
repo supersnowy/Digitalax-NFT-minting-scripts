@@ -1,17 +1,17 @@
 {
-  "name": "BV1000",
-  "description": "BV1000",
+  "name": "CI2011",
+  "description": "CI2011",
   "attributes": [
     {
       "trait_type": "Classification",
-      "value": "BV"
+      "value": "CI"
     },
     {
       "trait_type": "String",
-      "value": "1000"
+      "value": "2011"
     }
   ],
   "files": {
-    "image": "BV1000.png"
+    "image": "CI2011.png"
   }
 }

@@ -1,8 +1,29 @@
 {
   "name": "DeFi Shoe",
   "description": "Inspired by Alexander McQueen's high pumps, the DeFi Shoe tells a story of our journey through decentralised finance. The dominant vamp and toe box structure representing just how loud of an impact this new age of finance had- it was strong and robust, scalable for a future of big innovation. \n\nLook closely on the heel to see Uniswap rising to the top, Yearn Finance at a prominent centre, AAVE, Compound and Maker working together in unison and Nexus Mutual directly below to save their fall.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Album Corvum"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "10"
+    }
+  ],
   "files": {
-    "image": "",
-    "fbx": "",
+    "image": "Vlad_4k_front.png",
+    "animation_url": "Vlad_TT_v2.mp4",
+    "image_quarter": "Vlad_4k_quarter.png",
+    "image_side": "Vlad_4k_Side.png",
+    "fbx": "DeFi_Shoes.fbx"
   }
 }
