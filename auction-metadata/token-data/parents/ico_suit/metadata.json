@@ -22,8 +22,8 @@
   "files": {
     "image": "ICOsuit_4k_front_V2.png",
     "animation_url": "ICOsuit.mp4",
-    "image_side": "ICOsuit_4k_side.png",
-    "image_back": "ICOsuit_4k_back.png",
-    "fbx": "ICO_suit.fbx"
+    "image_side_url": "ICOsuit_4k_side.png",
+    "image_back_url": "ICOsuit_4k_back.png",
+    "fbx_url": "ICO_suit.fbx"
   }
 }

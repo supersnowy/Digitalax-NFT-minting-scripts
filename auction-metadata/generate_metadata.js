@@ -48,6 +48,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
           name: folderMetadata.name,
           description: folderMetadata.description,
           image: `${process.env.PINATA_GATEWAY_URL}/${imageHash}`,
+          external_url: "https://www.digitalax.xyz",
           attributes: [
             ...folderMetadata.attributes
           ]
