@@ -3,7 +3,7 @@ const fs = require('fs-extra');
 const path = require('path');
 const junk = require('junk');
 
-const pinToIpfs = require('./services/pinningService.js');
+const {pinFileToIpfs} = require('./services/pinningService.js');
 
 (async function runScript() {
 
@@ -13,7 +13,7 @@ const pinToIpfs = require('./services/pinningService.js');
 
   const childrenDataFolders = fs.readdirSync(CHILDREN_ROOT_PATH);
 
-  childrenDataFolders.forEach((folder, i) => {
+  childrenDataFolders.map(async (folder, i) => {
     if (junk.not(folder)) {
       console.log('folder', folder, i);
 
@@ -22,8 +22,16 @@ const pinToIpfs = require('./services/pinningService.js');
       console.log('folderMetadata', folderMetadata);
 
       // grab the child master token URI image
-      const childImage = fs.readFileSync(`${CHILDREN_ROOT_PATH}/${folder}/${folderMetadata.files.image}`);
-      console.log('ChildImage size', childImage.length); // TODO validate > 0 ?
+      const fullPath = `${CHILDREN_ROOT_PATH}/${folder}/${folderMetadata.files.image}`;
+      const exists = fs.exists(fullPath);
+      if(!exists) {
+        throw new Error("Image not found " + fullPath);
+      }
+      console.log('ChildImage found at', fullPath);
+
+      // Push image to IPFS
+      const imageHash = await pinFileToIpfs(fullPath);
+      console.log(`Pinned image from [${fullPath}] to IPFS [${imageHash}]`);
 
       // FIXME
       // pushing images to IPFS
