@@ -1,0 +1,17 @@
+{
+  "name": "PP3248",
+  "description": "PP3248",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "PP"
+    },
+    {
+      "trait_type": "String",
+      "value": "3248"
+    }
+  ],
+  "files": {
+    "image": "PP3248 .png"
+  }
+}

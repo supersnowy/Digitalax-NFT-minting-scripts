@@ -6,11 +6,14 @@ const {syncHashToSubgraph} = require('./theGraphSyncService');
 const ipfsService = new PinataIpfsService(pinataProvider);
 
 module.exports = {
-  pinFileToIpfs: async function (file, pinToSubgraph = false) {
+  pinFileToIpfs: async function (file, options = {}) {
+
+    const requiresExtension = options.requiresExtension || false;
+    const pinToSubgraph = options.pinToSubgraph || false;
 
     console.log(`Uploading file to Pinata`);
     const readableStreamForFile = fs.createReadStream(file);
-    const fileResult = await ipfsService.pushFileToPinata(readableStreamForFile);
+    const fileResult = await ipfsService.pushFileToPinata(readableStreamForFile, requiresExtension);
 
     if (pinToSubgraph) {
       console.log('\nPinning to subgraphs node');

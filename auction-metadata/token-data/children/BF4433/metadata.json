@@ -1,0 +1,17 @@
+{
+  "name": "BF4433",
+  "description": "BF4433",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "BF"
+    },
+    {
+      "trait_type": "String",
+      "value": "4433"
+    }
+  ],
+  "files": {
+    "image": "BF4433.png"
+  }
+}

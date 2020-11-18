@@ -1,0 +1,17 @@
+{
+  "name": "DS3676",
+  "description": "DS3676",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "DS"
+    },
+    {
+      "trait_type": "String",
+      "value": "3676"
+    }
+  ],
+  "files": {
+    "image": "DS3676.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "VS9843",
+  "description": "VS9843",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "VS"
+    },
+    {
+      "trait_type": "String",
+      "value": "9843"
+    }
+  ],
+  "files": {
+    "image": "_VS9843.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "CP2222",
+  "description": "CP2222",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "CP"
+    },
+    {
+      "trait_type": "String",
+      "value": "2222"
+    }
+  ],
+  "files": {
+    "image": "CP2222.png"
+  }
+}

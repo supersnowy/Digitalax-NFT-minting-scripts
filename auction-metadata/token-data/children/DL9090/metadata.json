@@ -1,0 +1,17 @@
+{
+  "name": "DL9090",
+  "description": "DL9090",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "DL"
+    },
+    {
+      "trait_type": "String",
+      "value": "9090"
+    }
+  ],
+  "files": {
+    "image": "DL9090.png"
+  }
+}

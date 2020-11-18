@@ -1,0 +1,17 @@
+{
+  "name": "YP5555",
+  "description": "YP5555",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "VP"
+    },
+    {
+      "trait_type": "String",
+      "value": "5555"
+    }
+  ],
+  "files": {
+    "image": "_YP5555.png"
+  }
+}

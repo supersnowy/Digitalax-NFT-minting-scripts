@@ -40,11 +40,15 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
           const exists = fs.existsSync(fullPath);
           if (!exists) {
             throw new Error('File not found ' + fullPath);
+            process.exit(-1);
           }
           console.log('Parent file found at', fullPath);
 
+          // we want FBX files to have the file extension attached
+          const requiresExtension = fullPath.includes('.fbx');
+
           // Push image to IPFS
-          const fileHash = await pinFileToIpfs(fullPath);
+          const fileHash = await pinFileToIpfs(fullPath, {requiresExtension});
           console.log(`Pinned file from [${fullPath}] to IPFS [${fileHash}]`);
 
           // record the additional metadata attribute
@@ -55,7 +59,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
             const parentNftMetadata = {
               name: folderMetadata.name,
               description: folderMetadata.description,
-              external_url: "https://www.digitalax.xyz",
+              external_url: 'https://www.digitalax.xyz',
               ...additionalMetadataAttributes,
               attributes: [
                 ...folderMetadata.attributes
@@ -71,8 +75,8 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
               hash: tokenMetadataHash
             }, null, 2));
           }).catch((e) => {
-            throw new Error(e);
-          });
+          throw new Error(e);
+        });
       }
     }
   });

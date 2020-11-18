@@ -1,0 +1,17 @@
+{
+  "name": "YN7657",
+  "description": "YN7657",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "VN"
+    },
+    {
+      "trait_type": "String",
+      "value": "7657"
+    }
+  ],
+  "files": {
+    "image": "YN7657.png"
+  }
+}

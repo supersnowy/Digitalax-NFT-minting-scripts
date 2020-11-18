@@ -1,0 +1,17 @@
+{
+  "name": "YR2343",
+  "description": "YR2343",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "VR"
+    },
+    {
+      "trait_type": "String",
+      "value": "2343"
+    }
+  ],
+  "files": {
+    "image": "_YR2343.png"
+  }
+}

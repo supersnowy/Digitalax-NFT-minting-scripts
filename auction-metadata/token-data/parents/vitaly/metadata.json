@@ -1,0 +1,29 @@
+{
+  "name": "To the Moon",
+  "description": "Let's face it. 2020 was a year of black swans, where the March crash saw markets tumble and coronavirus seasoned a new wave of fear and panic. Yet, amongst all the chaos and doubt, the OG crypto bounced back, it maintained and it sustained. It continued its journey towards the ultimate destination. \n\nThe \"To the Moon\" spacesuit consists of several functional pieces that interconnect to make up the whole outfit and protect from the dangers of outer space- helmet, backpack, gloves, body suit. This is a more modern spacesuit, removed from the clunkiness and restrictiveness that we see in NASA designs today. It is sleek and modern, consistent with technological advancements and prepared for a bigger mission. We can't say we know too much about rocket engines and astrophysics, but, we can say that this outfit has a Bitcoin engine breed of its own-and, it's headed straight to the moon. Get ready for TAKE OFF!",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Vitaly Kovalev"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "05"
+    }
+  ],
+  "files": {
+    "image": "ToTheMoon_2k_front (2) (1).png",
+    "animation_url": "toTheMoon_1k (1).mp4",
+    "image_side_url": "ToTheMoon_2k_side (1) (1).png",
+    "image_back_url": "ToTheMoon_2k_back (2) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}

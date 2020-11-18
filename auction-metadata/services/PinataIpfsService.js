@@ -4,12 +4,16 @@ class PinataIpfsService {
     this.pinata = pinata;
   }
 
-  async pushFileToPinata(filestream) {
-    const result = await this.pinata.pinFileToIPFS(filestream);
+  async pushFileToPinata(filestream, wrapWithDirectory = false) {
+    const result = await this.pinata.pinFileToIPFS(filestream, {
+      pinataOptions: {
+        wrapWithDirectory: wrapWithDirectory
+      }
+    });
     return {
       result,
       pinataIpfsUrl: `${process.env.PINATA_GATEWAY_URL}/${result.IpfsHash}`
-    }
+    };
   }
 
   async pushJsonToPinata(json) {
@@ -17,7 +21,7 @@ class PinataIpfsService {
     return {
       result,
       pinataIpfsUrl: `${process.env.PINATA_GATEWAY_URL}/${result.IpfsHash}`
-    }
+    };
   }
 }
 

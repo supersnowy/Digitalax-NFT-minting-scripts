@@ -1,0 +1,17 @@
+{
+  "name": "RP1414",
+  "description": "RP1414",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "RP"
+    },
+    {
+      "trait_type": "String",
+      "value": "1414"
+    }
+  ],
+  "files": {
+    "image": "RP1414.png"
+  }
+}

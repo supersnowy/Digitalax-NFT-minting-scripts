@@ -1,0 +1,29 @@
+{
+  "name": "Lightning Network",
+  "description": "Lightning Network is inspired by the Bitcoin layer 2- bringing speed, scalability, privacy and granularity. The dress features a translucent representative of the high speed bidirectional payment channels, routing through a mesh like network- the translucence giving insight into the connection to on-chain transparency. \n\nThe flash of skin and shimmer from the glassy texture make an eye-catching combo-this dress is not for shying away from attention. Paired with polished full sleeved gloves and structured shoulder padding creates an overall futurist look and feel.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Xander Smith"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "12"
+    }
+  ],
+  "files": {
+    "image": "LIGHTNINGdress_front_2k (1) (1).png",
+    "animation_url": "ligtning_1k (2).mp4",
+    "image_leftquart_url": "LIGHTNINGdress_leftquart_2k (1) (1).png",
+    "image_back_url": "LIGHTNINGdress_back_2k (1) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}

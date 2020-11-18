@@ -1,0 +1,17 @@
+{
+  "name": "PF4422",
+  "description": "PF4422",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "PF"
+    },
+    {
+      "trait_type": "String",
+      "value": "4422"
+    }
+  ],
+  "files": {
+    "image": "_PF4422.png"
+  }
+}

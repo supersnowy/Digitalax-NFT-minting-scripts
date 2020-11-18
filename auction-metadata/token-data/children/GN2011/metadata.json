@@ -1,0 +1,17 @@
+{
+  "name": "GN2011",
+  "description": "GN2011",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "GN"
+    },
+    {
+      "trait_type": "String",
+      "value": "2011"
+    }
+  ],
+  "files": {
+    "image": "GN2011.png"
+  }
+}

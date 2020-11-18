@@ -1,0 +1,29 @@
+{
+  "name": "Crypto Winter",
+  "description": "Crypto Winter was a harsh and brutal time. It demanded a fight for survival, and some just weren't well enough prepared. Are we out of the woods now? Who knows? This is crypto. \n\nThe Crypto Winter bear suit brings all of this nostalgia back, but, this time it's a little less scary. This uber soft and super breathable fleece is a one-size fits all. It is a memorable one-piece that will suit well for any costume party, cosplay event. It is also perfect for a netflix hangout, sleeping, and lounging at home.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Stanislav Mclygin"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "11"
+    }
+  ],
+  "files": {
+    "image": "CryptoWinter_2k_front (1) (1).png",
+    "animation_url": "CryptoWinter_1k (2).mp4",
+    "image_side_url": "CryptoWinter_2k_side (1) (1).png",
+    "image_back_url": "CryptoWinter_2k_back (1) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}
