@@ -1,0 +1,29 @@
+{
+  "name": "Bitcoin for Pizza",
+  "description": "Bitcoin for Pizza… do we really need to explain? The day is a historic marker for any crypto veteran. It was May 22nd, 2010 when Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John's pizzas. Now sitting at over USD $150, 000, 000 in value… that's gotta hurt! Bitcoin for Pizza brings a new age, cyber punk feel to the significant event- metallic pizzas, powered circuits. A casual long sleeved shirt, paired with a stylish face mask to fit the season.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Christina Lalch"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "16"
+    }
+  ],
+  "files": {
+    "image": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front.png",
+    "animation_url": "btcForPizz_1k.mp4",
+    "image_back_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Back.png",
+    "image_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Front.png",
+    "fbx_url": "Christina_Lalch_Bitcoin_for_Pizza.fbx"
+  }
+}

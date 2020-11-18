@@ -1,0 +1,17 @@
+{
+  "name": "EC1116",
+  "description": "EC1116",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "EC"
+    },
+    {
+      "trait_type": "String",
+      "value": "1116"
+    }
+  ],
+  "files": {
+    "image": "EC1116.png"
+  }
+}

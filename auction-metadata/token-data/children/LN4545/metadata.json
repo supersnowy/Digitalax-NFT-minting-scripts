@@ -1,0 +1,17 @@
+{
+  "name": "LN4545",
+  "description": "LN4545",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "LN"
+    },
+    {
+      "trait_type": "String",
+      "value": "4545"
+    }
+  ],
+  "files": {
+    "image": "LN4545.png"
+  }
+}
