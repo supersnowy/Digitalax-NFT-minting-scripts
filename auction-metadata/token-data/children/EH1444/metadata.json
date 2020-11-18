@@ -1,0 +1,17 @@
+{
+  "name": "EH1444",
+  "description": "EH1444",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "EH"
+    },
+    {
+      "trait_type": "String",
+      "value": "1444"
+    }
+  ],
+  "files": {
+    "image": "EH1444.png"
+  }
+}
