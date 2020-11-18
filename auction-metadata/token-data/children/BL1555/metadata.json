@@ -1,0 +1,17 @@
+{
+  "name": "BL1555",
+  "description": "BL1555",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "BL"
+    },
+    {
+      "trait_type": "String",
+      "value": "1555"
+    }
+  ],
+  "files": {
+    "image": "BL1555.png"
+  }
+}
