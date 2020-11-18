@@ -1,0 +1,17 @@
+{
+  "name": "TM3334",
+  "description": "TM3334",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "TM"
+    },
+    {
+      "trait_type": "String",
+      "value": "3334"
+    }
+  ],
+  "files": {
+    "image": "TM3334.png"
+  }
+}

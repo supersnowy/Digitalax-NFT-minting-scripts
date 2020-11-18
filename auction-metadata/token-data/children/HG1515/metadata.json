@@ -1,0 +1,17 @@
+{
+  "name": "HG1515",
+  "description": "HG1515",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "HG"
+    },
+    {
+      "trait_type": "String",
+      "value": "1515"
+    }
+  ],
+  "files": {
+    "image": "HG1515.png"
+  }
+}

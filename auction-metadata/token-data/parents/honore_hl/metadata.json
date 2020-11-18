@@ -1,0 +1,29 @@
+{
+  "name": "DAI DAI DAI",
+  "description": "DAI DAI DAI brings response to the DAI vs USDT battle. The yellow-green gradient is inspired by the communities gradual shift from Tether to DAI, as over time we continue to place more trust in on-chain and transparency. Play with texture and take your day out to the next level with the high ruffle neck transparent Chiffon Top. Boasting billowy bouffant sleeves with shirred cuffs, the blouse pairs perfectly with your selection of denim and fitted midi skirts.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "HonoreHL"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "15"
+    }
+  ],
+  "files": {
+    "image": "front.png",
+    "animation_url": "dai_1k.mp4",
+    "image_back_url": "back.png",
+    "image_side_url": "side.png",
+    "fbx_url": "Blouse_DX.fbx"
+  }
+}

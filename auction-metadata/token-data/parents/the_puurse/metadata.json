@@ -1,0 +1,29 @@
+{
+  "name": "The Puurse",
+  "description": "The Puurse was inspired by the original NFT pioneers and the adorable furry friends we have grown to know and love so well.  This accessory is the very definition of Chic, with its softly structured shape and uber lux detailed kitty print. We took inspiration from one of the rarer cats; Lola. In fact, a purchase comes with the OG Lola Kitty!",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Lorena Bello"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "06"
+    }
+  ],
+  "files": {
+    "image": "2K-CK-PURSE_1-LORENA_BELLO-FRONT.png",
+    "animation_url": "thePuurse_Lethear_1k.mp4",
+    "image_side_url": "2K-CK-PURSE_1-LORENA_BELLO-SIDE.png",
+    "image_side_2_url": "2K-CK-PURSE_1-LORENA_BELLO-SIDE_2.png",
+    "fbx_url": "master.fbx"
+  }
+}
