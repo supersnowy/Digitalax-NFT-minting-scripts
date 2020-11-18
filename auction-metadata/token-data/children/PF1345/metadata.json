@@ -1,0 +1,17 @@
+{
+  "name": "PF1345",
+  "description": "PF1345",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "PF"
+    },
+    {
+      "trait_type": "String",
+      "value": "1345"
+    }
+  ],
+  "files": {
+    "image": "PF1345.png"
+  }
+}
