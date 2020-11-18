@@ -1,0 +1,29 @@
+{
+  "name": "Decentralised Dress",
+  "description": "This is the Decentralised Dress. It is an epitomic representation of our current decentralised state- sometimes chaotic and confusing, but as a whole, elegant, beautiful and even somewhat awe-inspiring. The sharp architecture of the metallic spikes harshly bleeding out of the bottom of the dress in straight bands refers to the dispersing of power and information away from the central authorities and our prioritising of self-organisation. This global state gives a sense of the profound possibilities, the intersecting spikes revealing our Peer-to-peer networks as they resist control by a single outside power.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Edward Harber"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "04"
+    }
+  ],
+  "files": {
+    "image": "Dress-Front.png",
+    "animation_url": "Decentralised_1K.mp4",
+    "image_back_url": "Dress-back.png",
+    "image_side_url": "Dress-side.png",
+    "fbx_url": "Edward_Harber_Decentralised_Dress.fbx"
+  }
+}
