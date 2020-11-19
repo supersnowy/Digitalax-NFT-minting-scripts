@@ -11,6 +11,10 @@ module.exports = {
     const requiresExtension = options.requiresExtension || false;
     const pinToSubgraph = options.pinToSubgraph || false;
 
+    if (!fs.existsSync(file)) {
+      throw new Error('FILE NOT FOUND ' + file);
+    }
+
     console.log(`Uploading file to Pinata [${file}]`);
     const readableStreamForFile = fs.createReadStream(file);
 
