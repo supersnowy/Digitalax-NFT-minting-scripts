@@ -1,0 +1,29 @@
+{
+  "name": "The Shitcoin Jacket",
+  "description": "So, we finally did it. We decided to bring some purpose to those shitcoins. There are so many shitcoins out there. We couldn't include them all. So we took a different approach. We took the most elegant that we could find: Link, Bitcoin Satoshi, Ripple, TRON…. oh… and we had to include fiat right?\n\nThis light, loose-fitting long coat is best combined with black dress pants and a classic Oxford shoe- for the ultimate cocktail evening include cufflinks (Preferably matching and themed).",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Nina Doll"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "02"
+    }
+  ],
+  "files": {
+    "image": "nina.gif",
+    "image_front_url": "NinaD02_2k_Front (1) (1).png",
+    "image_side_url": "NinaD02_2k_Side (1) (1).png",
+    "image_back_url": "NinaD02_2k_Back (1) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}

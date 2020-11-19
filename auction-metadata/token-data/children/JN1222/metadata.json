@@ -1,0 +1,17 @@
+{
+  "name": "JN1222",
+  "description": "JN1222",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "JN"
+    },
+    {
+      "trait_type": "String",
+      "value": "1222"
+    }
+  ],
+  "files": {
+    "image": "JN1222.png"
+  }
+}
