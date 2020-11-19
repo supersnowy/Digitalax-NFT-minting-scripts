@@ -76,7 +76,8 @@ const wait = async () => {
           console.log('Parent file found at', fullPath);
 
           // we want FBX files to have the file extension attached
-          const requiresExtension = fullPath.includes('.fbx');
+          const requiresExtension = fullPath.indexOf('.fbx') > -1;
+          console.log('requiresExtension', requiresExtension);
 
           // Push image to IPFS
           const fileHash = await pinFileToIpfs(fullPath, {requiresExtension});
