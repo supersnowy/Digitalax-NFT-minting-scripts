@@ -23,16 +23,16 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
 
       // Check already processed this and skip if found
       if (alreadyPinned) {
-        const folderMetadata = JSON.parse(fs.readFileSync(`${CHILDREN_ROOT_PATH}/hash.json`));
-        console.log(`Skipping ${CHILDREN_ROOT_PATH} and already pinned to hash [${folderMetadata.hash}]`);
+        const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_FOLDER}/hash.json`));
+        console.log(`Skipping ${BASE_FOLDER} and already pinned to hash [${folderMetadata.hash}]`);
       } else {
 
         // grab the child folder
-        const folderMetadata = JSON.parse(fs.readFileSync(`${CHILDREN_ROOT_PATH}/metadata.json`));
+        const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_FOLDER}/metadata.json`));
         console.log('folderMetadata', folderMetadata);
 
         // grab the child master token URI image
-        const fullPath = `${CHILDREN_ROOT_PATH}/${folderMetadata.files.image}`;
+        const fullPath = `${BASE_FOLDER}/${folderMetadata.files.image}`;
         const exists = fs.existsSync(fullPath);
         if (!exists) {
           throw new Error('Image not found ' + fullPath);

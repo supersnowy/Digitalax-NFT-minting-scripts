@@ -11,7 +11,7 @@ module.exports = {
     const requiresExtension = options.requiresExtension || false;
     const pinToSubgraph = options.pinToSubgraph || false;
 
-    console.log(`Uploading file to Pinata`);
+    console.log(`Uploading file to Pinata [${file}]`);
     const readableStreamForFile = fs.createReadStream(file);
     const fileResult = await ipfsService.pushFileToPinata(readableStreamForFile, requiresExtension);
 
