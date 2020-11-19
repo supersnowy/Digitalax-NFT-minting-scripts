@@ -13,6 +13,7 @@ module.exports = {
 
     console.log(`Uploading file to Pinata [${file}]`);
     const readableStreamForFile = fs.createReadStream(file);
+
     const fileResult = await ipfsService.pushFileToPinata(readableStreamForFile, requiresExtension);
 
     if (pinToSubgraph) {

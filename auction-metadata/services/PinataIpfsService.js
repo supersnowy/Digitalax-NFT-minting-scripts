@@ -5,11 +5,13 @@ class PinataIpfsService {
   }
 
   async pushFileToPinata(filestream, wrapWithDirectory = false) {
-    const result = await this.pinata.pinFileToIPFS(filestream, {
-      pinataOptions: {
-        wrapWithDirectory: wrapWithDirectory
-      }
-    });
+    const result = wrapWithDirectory
+      ? await this.pinata.pinFileToIPFS(filestream)
+      : await this.pinata.pinFileToIPFS(filestream, {
+        pinataOptions: {
+          wrapWithDirectory: wrapWithDirectory
+        }
+      });
     return {
       result,
       pinataIpfsUrl: `${process.env.PINATA_GATEWAY_URL}/${result.IpfsHash}`

@@ -1,15 +1,22 @@
 require('dotenv').config();
 const fs = require('fs-extra');
-const path = require('path');
 const junk = require('junk');
 
 const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
 
+const wait = async () => {
+  return new Promise((resolve) => {
+    setTimeout(resolve, 4000);
+  });
+};
+
 (async function runScript() {
+
+  await wait();
 
   console.log('Generating metadata');
 
-  const PARENT_ROOT_PATH = './token-data/parents';
+  const PARENT_ROOT_PATH = '/token-data/parents';
 
   const parentDataFolders = fs.readdirSync(PARENT_ROOT_PATH);
 
