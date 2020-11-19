@@ -1,0 +1,17 @@
+{
+  "name": "OL5555",
+  "description": "OL5555",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "OL"
+    },
+    {
+      "trait_type": "String",
+      "value": "5555"
+    }
+  ],
+  "files": {
+    "image": "OL5555.png"
+  }
+}

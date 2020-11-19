@@ -1,0 +1,17 @@
+{
+  "name": "LB2366",
+  "description": "LB2366",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "LB"
+    },
+    {
+      "trait_type": "String",
+      "value": "2366"
+    }
+  ],
+  "files": {
+    "image": "LB2366.png"
+  }
+}

@@ -117,3 +117,4 @@ slither-output.log
 /auction-metadata/token-data/**/*.mp4
 /auction-metadata/token-data/**/*.png
 /auction-metadata/token-data/**/*.jpg
+/auction-metadata/token-data/**/*.gif
