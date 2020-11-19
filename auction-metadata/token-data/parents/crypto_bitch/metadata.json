@@ -1,0 +1,29 @@
+{
+  "name": "Crypto Bitch",
+  "description": "Crypto Bitch is an Ethereum plated all matching outfit (Zoom in close). A simple yet luxurious bomber jacket with a tight fitted Maxi skit. It was inspired by the opulence of the 80's and 90's rappers, who experienced a spurt of success, wealth, diamond chains, grills, complete luxury. This outfit is the height of crypto luxury and exuberance, but, with a spunk, badass twist. It is for the bold. It is for the daring. Now anyone to seek style.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Msistema"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "01"
+    }
+  ],
+  "files": {
+    "image": "cryptoBitch_1k.gif",
+    "image_back_url": "CryptoBitch_OUTFIT_BACK_2k.png",
+    "image_front_url": "CryptoBitch_OUTFIT_FRONT_2k.png",
+    "image_lateral_url": "CryptoBitch_OUTFIT_LATERAL_2k.png",
+    "fbx_url": "CryptoBitch.fbx"
+  }
+}
