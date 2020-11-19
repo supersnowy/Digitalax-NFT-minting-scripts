@@ -16,7 +16,7 @@ const wait = async () => {
 
   console.log('Generating metadata');
 
-  const PARENT_ROOT_PATH = '/token-data/parents';
+  const PARENT_ROOT_PATH = './token-data/parents';
 
   const parentDataFolders = fs.readdirSync(PARENT_ROOT_PATH);
 
@@ -41,15 +41,30 @@ const wait = async () => {
 
         let additionalMetadataAttributes = {};
 
-        Promise.all(Object.keys(folderMetadata.files).map(async key => {
-          let fileName = folderMetadata.files[key];
+        const keys = Object.keys(folderMetadata.files);
+        console.log('keys', keys);
 
+        ////////////////////////
+        // Validate all found //
+        ////////////////////////
+        for (let index in keys) {
+          const key = keys[index];
+          console.log('key', key);
+          const fileName = folderMetadata.files[key];
           const fullPath = `${BASE_FOLDER}/${fileName}`;
           const exists = fs.existsSync(fullPath);
           if (!exists) {
             throw new Error('File not found ' + fullPath);
             process.exit(-1);
           }
+        }
+
+        // Push all to IPFS
+        for (let index in keys) {
+          const key = keys[index];
+
+          const fileName = folderMetadata.files[key];
+          const fullPath = `${BASE_FOLDER}/${fileName}`;
           console.log('Parent file found at', fullPath);
 
           // we want FBX files to have the file extension attached
@@ -61,34 +76,31 @@ const wait = async () => {
 
           // record the additional metadata attribute
           additionalMetadataAttributes[key] = `${process.env.PINATA_GATEWAY_URL}/${fileHash}`;
-        }))
-          .then(async () => {
-            // Generate child token metadata
-            const parentNftMetadata = {
-              name: folderMetadata.name,
-              description: folderMetadata.description,
-              external_url: 'https://www.digitalax.xyz',
-              ...additionalMetadataAttributes,
-              attributes: [
-                ...folderMetadata.attributes
-              ]
-            };
+        }
 
-            // Pin metadata
-            const tokenMetadataHash = await pinJsonToIpfs(parentNftMetadata);
-            console.log(`Parent NFT metadata pinned [${tokenMetadataHash}]`);
+        // Generate child token metadata
+        const parentNftMetadata = {
+          name: folderMetadata.name,
+          description: folderMetadata.description,
+          external_url: 'https://www.digitalax.xyz',
+          ...additionalMetadataAttributes,
+          attributes: [
+            ...folderMetadata.attributes
+          ]
+        };
 
-            // Write file back to child folder
-            fs.writeFileSync(`${BASE_FOLDER}/hash.json`, JSON.stringify({
-              hash: tokenMetadataHash,
-              uri: `${process.env.PINATA_GATEWAY_URL}/${tokenMetadataHash}`
-            }, null, 2));
-          }).catch((e) => {
-          throw new Error(e);
-        });
+        // Pin metadata
+        const tokenMetadataHash = await pinJsonToIpfs(parentNftMetadata);
+        console.log(`Parent NFT metadata pinned [${tokenMetadataHash}]`);
+
+        // Write file back to child folder
+        fs.writeFileSync(`${BASE_FOLDER}/hash.json`, JSON.stringify({
+          hash: tokenMetadataHash,
+          uri: `${process.env.PINATA_GATEWAY_URL}/${tokenMetadataHash}`
+        }, null, 2));
+
       }
     }
   }
-
 
 })();
