@@ -20,7 +20,8 @@ const wait = async () => {
 
   const parentDataFolders = fs.readdirSync(PARENT_ROOT_PATH);
 
-  parentDataFolders.map(async (folder, i) => {
+  for (const folder of parentDataFolders) {
+    let i = parentDataFolders.indexOf(folder);
     const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
 
     if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
@@ -87,7 +88,7 @@ const wait = async () => {
         });
       }
     }
-  });
+  }
 
 
 })();

@@ -20,13 +20,14 @@ const wait = async () => {
 
   const childrenDataFolders = fs.readdirSync(CHILDREN_ROOT_PATH);
 
-  childrenDataFolders.map(async (folder, i) => {
+  for (const folder of childrenDataFolders) {
+    let i = childrenDataFolders.indexOf(folder);
     const BASE_FOLDER = `${CHILDREN_ROOT_PATH}/${folder}`;
 
     if (junk.not(folder)) {
       console.log('folder', folder, i);
 
-      const alreadyPinned = fs.existsSync(`${CHILDREN_ROOT_PATH}/hash.json`);
+      const alreadyPinned = fs.existsSync(`${BASE_FOLDER}/hash.json`);
 
       // Check already processed this and skip if found
       if (alreadyPinned) {
@@ -65,14 +66,14 @@ const wait = async () => {
         console.log(`Child NFT metadata pinned [${tokenMetadataHash}]`);
 
         // Write file back to child folder
-        fs.writeFileSync(`${CHILDREN_ROOT_PATH}/hash.json`, JSON.stringify({
+        fs.writeFileSync(`${BASE_FOLDER}/hash.json`, JSON.stringify({
           hash: tokenMetadataHash,
           uri: `${process.env.PINATA_GATEWAY_URL}/${tokenMetadataHash}`
         }, null, 2));
 
       }
     }
-  });
+  }
 
 
 })();
