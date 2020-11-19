@@ -1,0 +1,29 @@
+{
+  "name": "The Whale Hunter",
+  "description": "The Whale Hunter brings a mix between the vintage diving suits and the graffiti and protest counterculture. It features a Bitcoin inspired vintage wetsuit, waterproofed sprayed fabric and a paired vintage waterproofed sprayed diving helmet.\n\nThis garment is the perfect equipment to be submerged right into the crypto ocean. Suit up Whales. It is time to start hunting in style. It is time to start hunting in class. Move those money markets!",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Msistema"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials "
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "09"
+    }
+  ],
+  "files": {
+    "image": "whaleHunter_1k.gif",
+    "image_front_url": "FRONT2k (1) (1).png",
+    "image_back_url": "BACK2k (1) (1).png",
+    "image_side_url": "LATERAL2K (1) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}

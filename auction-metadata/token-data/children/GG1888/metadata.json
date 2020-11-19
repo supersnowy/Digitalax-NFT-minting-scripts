@@ -1,0 +1,17 @@
+{
+  "name": "GG1888",
+  "description": "GG1888",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "GG"
+    },
+    {
+      "trait_type": "String",
+      "value": "1888"
+    }
+  ],
+  "files": {
+    "image": ""
+  }
+}

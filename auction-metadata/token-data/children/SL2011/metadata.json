@@ -1,0 +1,17 @@
+{
+  "name": "SL2011",
+  "description": "SL2011",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "SL"
+    },
+    {
+      "trait_type": "String",
+      "value": "2011"
+    }
+  ],
+  "files": {
+    "image": "SL2011.png"
+  }
+}
