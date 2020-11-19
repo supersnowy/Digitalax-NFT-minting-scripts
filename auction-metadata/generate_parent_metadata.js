@@ -20,6 +20,30 @@ const wait = async () => {
 
   const parentDataFolders = fs.readdirSync(PARENT_ROOT_PATH);
 
+  ////////////////////////
+  // Validate all found //
+  ////////////////////////
+  for (const folder of parentDataFolders) {
+    let i = parentDataFolders.indexOf(folder);
+    const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
+    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
+      console.log('folder', folder, i);
+      const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_FOLDER}/metadata.json`));
+      const keys = Object.keys(folderMetadata.files);
+
+      for (let index in keys) {
+        const key = keys[index];
+        const fileName = folderMetadata.files[key];
+        const fullPath = `${BASE_FOLDER}/${fileName}`;
+        const exists = fs.existsSync(fullPath);
+        if (!exists) {
+          throw new Error('File not found ' + fullPath);
+          process.exit(-1);
+        }
+      }
+    }
+  }
+
   for (const folder of parentDataFolders) {
     let i = parentDataFolders.indexOf(folder);
     const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
@@ -42,22 +66,6 @@ const wait = async () => {
         let additionalMetadataAttributes = {};
 
         const keys = Object.keys(folderMetadata.files);
-        console.log('keys', keys);
-
-        ////////////////////////
-        // Validate all found //
-        ////////////////////////
-        for (let index in keys) {
-          const key = keys[index];
-          console.log('key', key);
-          const fileName = folderMetadata.files[key];
-          const fullPath = `${BASE_FOLDER}/${fileName}`;
-          const exists = fs.existsSync(fullPath);
-          if (!exists) {
-            throw new Error('File not found ' + fullPath);
-            process.exit(-1);
-          }
-        }
 
         // Push all to IPFS
         for (let index in keys) {
