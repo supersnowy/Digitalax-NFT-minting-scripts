@@ -23,7 +23,7 @@ const wait = async () => {
   childrenDataFolders.map(async (folder, i) => {
     const BASE_FOLDER = `${CHILDREN_ROOT_PATH}/${folder}`;
 
-    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
+    if (junk.not(folder)) {
       console.log('folder', folder, i);
 
       const alreadyPinned = fs.existsSync(`${CHILDREN_ROOT_PATH}/hash.json`);
@@ -40,8 +40,7 @@ const wait = async () => {
 
         // grab the child master token URI image
         const fullPath = `${BASE_FOLDER}/${folderMetadata.files.image}`;
-        const exists = fs.existsSync(fullPath);
-        if (!exists) {
+        if (!fs.existsSync(fullPath)) {
           throw new Error('Image not found ' + fullPath);
         }
         console.log('ChildImage found at', fullPath);
