@@ -20,10 +20,10 @@
     }
   ],
   "files": {
-    "image": "front.png",
-    "animation_url": "dai_1k.mp4",
+    "image": "turntable.gif",
+    "image_front_url": "front.png",
     "image_back_url": "back.png",
     "image_side_url": "side.png",
-    "fbx_url": "Blouse_DX.fbx"
+    "fbx_url": "master.fbx"
   }
 }

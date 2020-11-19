@@ -1,0 +1,17 @@
+{
+  "name": "RL1314",
+  "description": "RL1314",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "RL"
+    },
+    {
+      "trait_type": "String",
+      "value": "1314"
+    }
+  ],
+  "files": {
+    "image": "RL1314.png"
+  }
+}

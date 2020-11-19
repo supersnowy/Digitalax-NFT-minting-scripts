@@ -14,10 +14,10 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
   const parentDataFolders = fs.readdirSync(PARENT_ROOT_PATH);
 
   parentDataFolders.map(async (folder, i) => {
-    if (junk.not(folder)) {
-      console.log('folder', folder, i);
+    const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
 
-      const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
+    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
+      console.log('folder', folder, i);
 
       const alreadyPinned = fs.existsSync(`${BASE_FOLDER}/hash.json`);
 

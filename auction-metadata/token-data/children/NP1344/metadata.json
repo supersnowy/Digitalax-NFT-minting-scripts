@@ -1,0 +1,17 @@
+{
+  "name": "NP1344",
+  "description": "NP1344",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "NP"
+    },
+    {
+      "trait_type": "String",
+      "value": "1344"
+    }
+  ],
+  "files": {
+    "image": "NP1344.png"
+  }
+}

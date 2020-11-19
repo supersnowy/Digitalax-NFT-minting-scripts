@@ -20,8 +20,8 @@
     }
   ],
   "files": {
-    "image": "LIGHTNINGdress_front_2k (1) (1).png",
-    "animation_url": "ligtning_1k (2).mp4",
+    "image": "ligtning_1k.gif",
+    "image_front_url": "LIGHTNINGdress_front_2k (1) (1).png",
     "image_leftquart_url": "LIGHTNINGdress_leftquart_2k (1) (1).png",
     "image_back_url": "LIGHTNINGdress_back_2k (1) (1).png",
     "fbx_url": "master.fbx"

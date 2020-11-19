@@ -20,8 +20,8 @@
     }
   ],
   "files": {
-    "image": "ToTheMoon_2k_front (2) (1).png",
-    "animation_url": "toTheMoon_1k (1).mp4",
+    "image": "toTheMoon_1k.gif",
+    "image_front_url": "ToTheMoon_2k_front (2) (1).png",
     "image_side_url": "ToTheMoon_2k_side (1) (1).png",
     "image_back_url": "ToTheMoon_2k_back (2) (1).png",
     "fbx_url": "master.fbx"

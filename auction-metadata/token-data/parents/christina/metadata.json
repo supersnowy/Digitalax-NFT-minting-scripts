@@ -20,8 +20,8 @@
     }
   ],
   "files": {
-    "image": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front.png",
-    "animation_url": "btcForPizz_1k.mp4",
+    "image": "btcForPizz_1k.gif",
+    "image_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front.png",
     "image_back_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Back.png",
     "image_mask_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front.png",
     "fbx_url": "master.fbx"

@@ -20,10 +20,10 @@
     }
   ],
   "files": {
-    "image": "ICOsuit_4k_front_V2.png",
-    "animation_url": "ICOsuit.mp4",
-    "image_side_url": "ICOsuit_4k_side.png",
-    "image_back_url": "ICOsuit_4k_back.png",
+    "image": "ICOsuit_1k.gif",
+    "image_front_url": "ICOsuit_2k_front_V2 (2) (1).png",
+    "image_side_url": "ICOsuit_2k_side (2) (1).png",
+    "image_back_url": "ICOsuit_2k_back (1) (1).png",
     "fbx_url": "master.fbx"
   }
 }

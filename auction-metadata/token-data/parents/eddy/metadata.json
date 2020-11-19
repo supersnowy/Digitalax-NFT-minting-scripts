@@ -20,10 +20,10 @@
     }
   ],
   "files": {
-    "image": "Dress-Front.png",
-    "animation_url": "Decentralised_1K.mp4",
-    "image_back_url": "Dress-back.png",
-    "image_side_url": "Dress-side.png",
+    "image": "Decentralised_1K.gif",
+    "image_front": "Edward Harber Decentralised Dress - Front 2000.48 (1) (1).png",
+    "image_back_url": "Edward Harber Decentralised Dress - Back 2000.47 (1).png",
+    "image_side_url": "Edward Harber Decentralised Dress - Back 2000.47 (1).png",
     "fbx_url": "master.fbx"
   }
 }

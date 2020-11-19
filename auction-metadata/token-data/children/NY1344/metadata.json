@@ -1,0 +1,17 @@
+{
+  "name": "NY1344",
+  "description": "NY1344",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "NY"
+    },
+    {
+      "trait_type": "String",
+      "value": "134"
+    }
+  ],
+  "files": {
+    "image": "NY1344.png"
+  }
+}

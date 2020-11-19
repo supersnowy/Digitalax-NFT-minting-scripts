@@ -14,25 +14,25 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
   const childrenDataFolders = fs.readdirSync(CHILDREN_ROOT_PATH);
 
   childrenDataFolders.map(async (folder, i) => {
-    if (junk.not(folder)) {
+    const BASE_FOLDER = `${CHILDREN_ROOT_PATH}/${folder}`;
+
+    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
       console.log('folder', folder, i);
 
-      const BASE_CHILD_FOLDER = `${CHILDREN_ROOT_PATH}/${folder}`;
-
-      const alreadyPinned = fs.existsSync(`${BASE_CHILD_FOLDER}/hash.json`);
+      const alreadyPinned = fs.existsSync(`${CHILDREN_ROOT_PATH}/hash.json`);
 
       // Check already processed this and skip if found
       if (alreadyPinned) {
-        const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_CHILD_FOLDER}/hash.json`));
-        console.log(`Skipping ${BASE_CHILD_FOLDER} and already pinned to hash [${folderMetadata.hash}]`);
+        const folderMetadata = JSON.parse(fs.readFileSync(`${CHILDREN_ROOT_PATH}/hash.json`));
+        console.log(`Skipping ${CHILDREN_ROOT_PATH} and already pinned to hash [${folderMetadata.hash}]`);
       } else {
 
         // grab the child folder
-        const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_CHILD_FOLDER}/metadata.json`));
+        const folderMetadata = JSON.parse(fs.readFileSync(`${CHILDREN_ROOT_PATH}/metadata.json`));
         console.log('folderMetadata', folderMetadata);
 
         // grab the child master token URI image
-        const fullPath = `${BASE_CHILD_FOLDER}/${folderMetadata.files.image}`;
+        const fullPath = `${CHILDREN_ROOT_PATH}/${folderMetadata.files.image}`;
         const exists = fs.existsSync(fullPath);
         if (!exists) {
           throw new Error('Image not found ' + fullPath);
@@ -48,7 +48,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
           name: folderMetadata.name,
           description: folderMetadata.description,
           image: `${process.env.PINATA_GATEWAY_URL}/${imageHash}`,
-          external_url: "https://www.digitalax.xyz",
+          external_url: 'https://www.digitalax.xyz',
           attributes: [
             ...folderMetadata.attributes
           ]
@@ -59,7 +59,7 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
         console.log(`Child NFT metadata pinned [${tokenMetadataHash}]`);
 
         // Write file back to child folder
-        fs.writeFileSync(`${BASE_CHILD_FOLDER}/hash.json`, JSON.stringify({
+        fs.writeFileSync(`${CHILDREN_ROOT_PATH}/hash.json`, JSON.stringify({
           hash: tokenMetadataHash,
           uri: `${process.env.PINATA_GATEWAY_URL}/${tokenMetadataHash}`
         }, null, 2));

@@ -20,10 +20,10 @@
     }
   ],
   "files": {
-    "image": "Vlad_4k_front.png",
-    "animation_url": "Vlad_TT_v2.mp4",
-    "image_quarter_url": "Vlad_4k_quarter.png",
-    "image_side_url": "Vlad_4k_Side.png",
+    "image": "defiShoes_1k (2).gif",
+    "image_front_url": "Vlad_2k_Front (1) (1).png",
+    "image_quarter_url": "Vlad_2k_quarter (1) (1).png",
+    "image_side_url": "Vlad_2k_Side (1) (1).png",
     "fbx_url": "master.fbx"
   }
 }

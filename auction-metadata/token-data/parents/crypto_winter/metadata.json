@@ -20,8 +20,8 @@
     }
   ],
   "files": {
-    "image": "CryptoWinter_2k_front (1) (1).png",
-    "animation_url": "CryptoWinter_1k (2).mp4",
+    "image": "CryptoWinter_1k.gif",
+    "image_front": "CryptoWinter_2k_front (1) (1).png",
     "image_side_url": "CryptoWinter_2k_side (1) (1).png",
     "image_back_url": "CryptoWinter_2k_back (1) (1).png",
     "fbx_url": "master.fbx"

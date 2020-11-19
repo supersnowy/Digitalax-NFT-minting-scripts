@@ -1,0 +1,29 @@
+{
+  "name": "DeFi Summer (Male)",
+  "description": "Summer Lovin' happened so fast. It was a hot, hot summer filled with money markets, yield farming, synthetic assets, flash loans and more. What else could we have asked for? The fall might have reached but DeFi isn't dead. Re-live the high life of APY splendour with your new summer essentials. \n\nThe DeFi Summer shows some love to bright colours and the 80s. Inspired with neon hues, the elastic boardshort delivers 360 degree comfort and finds versatile styling with a back seam pocket.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Rendooo Lab"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "13"
+    }
+  ],
+  "files": {
+    "image": "deFi_SummerMale.gif",
+    "image_front_url": "Man swimsuit-Front (1).jpg",
+    "image_front_angle_url": "Man swimsuit-Front Angle (1).jpg",
+    "image_back_url": "Man swimsuit-Back (1).jpg",
+    "fbx_url": "master.fbx"
+  }
+}
