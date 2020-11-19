@@ -1,0 +1,17 @@
+{
+  "name": "SM1259",
+  "description": "SM1259",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "SM"
+    },
+    {
+      "trait_type": "String",
+      "value": "1259"
+    }
+  ],
+  "files": {
+    "image": "SM1259.png"
+  }
+}

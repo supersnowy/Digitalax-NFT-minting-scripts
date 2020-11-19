@@ -1,0 +1,17 @@
+{
+  "name": "MG2011",
+  "description": "MG2011",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "MG"
+    },
+    {
+      "trait_type": "String",
+      "value": "2011"
+    }
+  ],
+  "files": {
+    "image": "MG2011.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "DAO Out",
+  "description": "DAO Out tributes to the future of decentralisation; massive organisations that are truly distributed and automated. The DAO Out jumpsuit features a surplice neckline, long sleeves and a wrap closure with satin ties. The futuristic silver silk base material is spotted with a signature pattern representation of a DAO; revealing the interconnectedness of the Smart Contracts and the distribution of its participants. The outfit offers a flattering fit-and-flare silhouette, a mix of comfort and professionalism - perfect for any day or night on the voting forums.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mar Guixa Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "17"
+    }
+  ],
+  "files": {
+    "image": "Truntable_0.gif",
+    "image_front_url": "digitalax2K.png",
+    "image_side_url": "digitalaX_side2K.png",
+    "image_back_url": "digitalax_back2K.png",
+    "fbx_url": "Mar_Guixa_Studio_x_Digitalax.fbx"
+  }
+}
