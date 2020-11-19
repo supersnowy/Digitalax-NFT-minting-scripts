@@ -1,0 +1,17 @@
+{
+  "name": "SC1556",
+  "description": "SC1556",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "SC"
+    },
+    {
+      "trait_type": "String",
+      "value": "1556"
+    }
+  ],
+  "files": {
+    "image": "SC1556.png"
+  }
+}

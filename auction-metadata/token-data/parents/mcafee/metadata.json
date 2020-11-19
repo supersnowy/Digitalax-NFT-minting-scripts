@@ -1,0 +1,29 @@
+{
+  "name": "When Lambo?",
+  "description": "It is probably one of the most debated questions in crypto. When will our coin investments finally give us that Lambo ROI? We are seeing some price action now, the bulls seem to be taking the control back, but, will it last? Well, whatever the case, we are bringing you Lambo through a shoe. No need to wait, it's instant exposure. This sleek shoe oozes rugged sex appeal. The strong mechanical edges and tyre outer sole give the feel of the Aventador engine rumbling. Complete Control. This shoe is fast. It is loud. And it gives anyone the experience of instant supremacy.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "McAfee.Design"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "03"
+    }
+  ],
+  "files": {
+    "image": "whenLambo_1k.gif",
+    "image_front_url": "monavaile_when_lambo_2k_still_01.jpg",
+    "image_side_url": "monavaile_when_lambo_2k_still_03.jpg",
+    "image_back_url": "monavaile_when_lambo_2k_still_04.jpg",
+    "fbx_url": "monavaile_shoe_fbx.fbx"
+  }
+}
