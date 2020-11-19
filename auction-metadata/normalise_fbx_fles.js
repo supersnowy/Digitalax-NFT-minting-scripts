@@ -26,7 +26,7 @@ const walkSync = require('walk-sync');
       const paths = walkSync(BASE_FOLDER, {globs: ['*.fbx']});
       paths.forEach((fbxPath) => {
         console.log(`Normalising ` + fbxPath);
-        fs.rename(
+        fs.renameSync(
           `${__dirname}/${BASE_FOLDER}/${fbxPath}`,
           `${__dirname}/${BASE_FOLDER}/master.fbx`
         );

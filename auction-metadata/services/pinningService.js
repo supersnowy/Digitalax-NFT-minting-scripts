@@ -12,7 +12,11 @@ module.exports = {
     const pinToSubgraph = options.pinToSubgraph || false;
 
     if (!fs.existsSync(file)) {
-      throw new Error('FILE NOT FOUND ' + file);
+      throw new Error('File not found ' + file);
+    }
+
+    if (fs.lstatSync(file).isDirectory()) {
+      throw new Error('File is directory ' + file);
     }
 
     console.log(`Uploading file to Pinata [${file}]`);
