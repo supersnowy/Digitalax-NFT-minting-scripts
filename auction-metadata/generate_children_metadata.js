@@ -60,7 +60,8 @@ const {pinFileToIpfs, pinJsonToIpfs} = require('./services/pinningService.js');
 
         // Write file back to child folder
         fs.writeFileSync(`${BASE_CHILD_FOLDER}/hash.json`, JSON.stringify({
-          hash: tokenMetadataHash
+          hash: tokenMetadataHash,
+          uri: `${process.env.PINATA_GATEWAY_URL}/${tokenMetadataHash}`
         }, null, 2));
 
       }
