@@ -1,0 +1,17 @@
+{
+  "name": "AL1345",
+  "description": "AL1345",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "AL"
+    },
+    {
+      "trait_type": "String",
+      "value": "1345"
+    }
+  ],
+  "files": {
+    "image": "AL1345.png"
+  }
+}
