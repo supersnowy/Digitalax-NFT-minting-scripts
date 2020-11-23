@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "description": "",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": ""
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": ""
+    }
+  ],
+  "files": {
+    "image": "",
+    "image_front_url": "",
+    "image_side_url": "",
+    "image_side_2_url": "",
+    "fbx_url": "master.fbx"
+  }
+}

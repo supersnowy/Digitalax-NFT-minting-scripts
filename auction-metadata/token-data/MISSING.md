@@ -1,5 +1,5 @@
-Vitaly -> AL1345  - missing child
 Stanislav -> Incognito - missing parent & child
 Deigo -> missing master fbx file
 
-Hey @emmajane13. RE: Lorena, The Purse V2. YS2245 is specified as a child in the metadata google sheet but it's not in the folder. Also, there are 2 other children images in there OL5555.png and LB2366.png but this is not mentioned in the doc. Pls advise. Thank you
+The Purse V2. YS2245 is specified as a child in the metadata google sheet but it's not in the folder. Also, there are 2 other children images in there OL5555.png and LB2366.png but this is not mentioned in the doc
+
