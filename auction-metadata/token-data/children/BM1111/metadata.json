@@ -1,0 +1,17 @@
+{
+  "name": "BM1111",
+  "description": "BM1111",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "BL"
+    },
+    {
+      "trait_type": "String",
+      "value": "1111"
+    }
+  ],
+  "files": {
+    "image": "BM1111.png"
+  }
+}

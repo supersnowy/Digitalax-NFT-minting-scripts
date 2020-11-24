@@ -1,0 +1,29 @@
+{
+  "name": "HODL King",
+  "description": "HODL King is for the true hard-core believers. HODL is not just a strategy, it is a choice, it is a mindset, it is a way of life. HODLers reign and they need a dramatic costume to match their throne. \n\nThe splendour of regal status oozes through this tailored long gown of Venetian damask. This extravagant design is built for show; red embroidered satin, silver tissue, and cloth of gold. It’s time to take the crown— it’s HODL time.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "3dBehemoth"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "18"
+    }
+  ],
+  "files": {
+    "image": "HodlKing_1k.gif",
+    "image_front_url": "HodlKing_2k_front.png",
+    "image_back_url": "HodlKing_2k_back.png",
+    "image_side_url": "HodlKing_2k_side.png",
+    "fbx_url": "master.fbx"
+  }
+}

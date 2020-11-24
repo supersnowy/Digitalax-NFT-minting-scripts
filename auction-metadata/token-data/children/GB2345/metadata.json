@@ -1,0 +1,17 @@
+{
+  "name": "GB2345",
+  "description": "GB2345",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "GB"
+    },
+    {
+      "trait_type": "String",
+      "value": "2345"
+    }
+  ],
+  "files": {
+    "image": "GB2345.png"
+  }
+}

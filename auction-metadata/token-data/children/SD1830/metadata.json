@@ -1,0 +1,17 @@
+{
+  "name": "SD1830",
+  "description": "SD1830",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "SD"
+    },
+    {
+      "trait_type": "String",
+      "value": "1830"
+    }
+  ],
+  "files": {
+    "image": "SD1830.png"
+  }
+}
