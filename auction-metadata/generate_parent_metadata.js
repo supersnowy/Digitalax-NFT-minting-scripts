@@ -26,7 +26,10 @@ const wait = async () => {
   for (const folder of parentDataFolders) {
     let i = parentDataFolders.indexOf(folder);
     const BASE_FOLDER = `${PARENT_ROOT_PATH}/${folder}`;
-    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory()) {
+
+    const alreadyPinned = fs.existsSync(`${BASE_FOLDER}/hash.json`);
+
+    if (junk.not(folder) && fs.lstatSync(BASE_FOLDER).isDirectory() && !alreadyPinned) {
       console.log('folder', folder, i);
       const folderMetadata = JSON.parse(fs.readFileSync(`${BASE_FOLDER}/metadata.json`));
       const keys = Object.keys(folderMetadata.files);
