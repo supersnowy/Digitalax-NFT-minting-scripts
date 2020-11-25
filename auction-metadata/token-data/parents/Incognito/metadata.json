@@ -1,0 +1,29 @@
+{
+  "name": "Incognito",
+  "description": "Hello, my name is Vladimir. My expertise is programming, running exploits, setting up DDOS attacks, and, I like the challenge of doing things when most others give up. I have spent years finding methods that really work. Final price will be given once you tell me all details of the job. I accept BTC only.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Stanislav Mclygin"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "19"
+    }
+  ],
+  "files": {
+    "image": "incognito_1k (1).gif",
+    "image_front_url": "incognito_front_2k (1).png",
+    "image_side_url": "incognito_side_2k (1).png",
+    "image_side_2_url": "incognito_back_2k (1).png",
+    "fbx_url": "master.fbx"
+  }
+}
