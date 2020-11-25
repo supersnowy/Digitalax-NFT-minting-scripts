@@ -1,6 +1,6 @@
 {
-  "name": "SL7655",
-  "description": "SL7655",
+  "name": "SL7654",
+  "description": "SL7654",
   "attributes": [
     {
       "trait_type": "Classification",
@@ -12,6 +12,6 @@
     }
   ],
   "files": {
-    "image": "SL7655.png"
+    "image": "SL7654.png"
   }
 }
