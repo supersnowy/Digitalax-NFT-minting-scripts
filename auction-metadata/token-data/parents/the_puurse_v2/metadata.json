@@ -1,0 +1,29 @@
+{
+  "name": "The Puurse V2",
+  "description": "Let your accessory do the talking with this furry cryptokitty inspired tote! Bold n bright, this little accessory is just the thing to really make your outfit POP! The Puurse V2 features modern dark cream straps to the top and ample space for your makeup essentials! We took inspiration from one of the rarer cats; Lola #2. In fact, a purchase comes with the adorable Lola Kitty #2! Extra hint: Want to make the Puurse V2 really stand out? Pair with a Little Black Dress for a night out on the town!",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Lorena Bello"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crypto Essentials"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "01"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "07"
+    }
+  ],
+  "files": {
+    "image": "thePuurse_Fur_1k (1).gif",
+    "image_front_url": "2K-CK-PURSE_2-LORENA_BELLO-FRONT (2).png",
+    "image_side_url": "2K-CK-PURSE_2-LORENA_BELLO-SIDE (1) (1).png",
+    "image_side_2_url": "2K-CK-PURSE_2-LORENA_BELLO-SIDE_2 (1) (1).png",
+    "fbx_url": "master.fbx"
+  }
+}
