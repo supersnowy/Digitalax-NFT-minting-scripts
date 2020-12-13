@@ -1,0 +1,17 @@
+{
+  "name": "DF003",
+  "description": "DF003",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "DF"
+    },
+    {
+      "trait_type": "String",
+      "value": "003"
+    }
+  ],
+  "files": {
+    "image": "Dimensional Fabric 003.PNG"
+  }
+}

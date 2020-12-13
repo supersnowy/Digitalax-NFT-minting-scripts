@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 01: EVA",
+  "description": "One of the first prototypes of the revolutionary EYL Artificial Intelligence Augmentation experiments, Eva is an advanced robot that possesses an extraordinary amount of durability and resilience in the face of potential threats and dangers. Despite her lean looks, the fabric around her hands, made of enhanced Durasteel and equipped with cybernetic upgrades, allows her to have enough strength to put a rolling vehicle to a stop. Even though she is all machine on the insides, her personality remains as vibrant as the colors on her designs, reflecting how the presence of strength should never be translated to bruteness. Eva remains a core member of the RUSH Corps as she was one of the founding members of the Corps, securing a permanent position on the Council.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Gwen Kim (JAK 3D)"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "20"
+    }
+  ],
+  "files": {
+    "image": "gwen.gif",
+    "fbx_url": "gwen.fbx"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 05: PHANTOM",
+  "description": "Always covered under a veil of mystery and suspense, not much is known about Phantom. What we do know is that she is a lean mean killing machine, finishing off her targets with unmatched precision and accuracy. Her attire, made of a rare silk fiber from an exotic and unknown plant, offers unparalleled adaptability and freedom, allowing her to devastate her opponents with relative ease. Phantom refrains from participating in any social activities and only offers her help when the circumstances are dire. The Rush Corps have repeatedly approached her for recruitment but she has always refused, illustrating her rebellious and independent nature.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "AVA3Ddesigners"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "24"
+    }
+  ],
+  "files": {
+    "image": "ava.gif",
+    "fbx_url": "avaGarment.fbx"
+  }
+}

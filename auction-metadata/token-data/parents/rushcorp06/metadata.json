@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 06: JINX",
+  "description": "Adoring a graceful and quilted dress, Jinx is another unconventional yet devastating member of the RUSH Corps, equipped with the ability to influence wild animals to subject to her will. Within a matter of minutes, Jinx has the capability to influence all nearby animals present within many miles of radius, allowing her to be an invaluable asset when it comes to conducting operations in rural and woodland regions as she can utilize nearby wildlife to effectively track and even hunt down her targets. As a field agent for RUSH Corps, Jinx has made a remarkable reputation for her elegant and cheerful disposition that supplements her abilities and attire.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "YeKaterina Burmatnova"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "25"
+    }
+  ],
+  "files": {
+    "image": "ekaterina.gif",
+    "fbx_url": "quiltedPuff2.fbx"
+  }
+}

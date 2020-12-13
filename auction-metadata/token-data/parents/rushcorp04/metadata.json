@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 04: CROSSFIRE",
+  "description": "Crossfire is the product of artificial intelligence being merged within effective law enforcement robots to create the perfect tool for fighting crime, a versatile robot armed with the ability to shock and stun offenders with the extendable appendages hidden around his wrists. After a mishap where the appendages hurt one of the police officers, Crossfire was deactivated only to be later reactivated by the RUSH Corps for his help in effectively countering criminals by restricting their mobility using his skills. However, it is not only the appendages that leave people stunned and shocked, it is his attire as well. Crossfire acts as a field agent for RUSH Corps for situations where disarmament is the primary concern.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Alexander Kurmanin"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "23"
+    }
+  ],
+  "files": {
+    "image": "alexandr2.gif",
+    "fbx_url": "alexfbx.fbx"
+  }
+}

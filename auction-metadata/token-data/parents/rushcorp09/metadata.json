@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 09: PULSE",
+  "description": "For situations where it is absolutely important and critical to be discreet and silent, Pulse is whom the Rush Corps relies upon. With advanced optical technology, she has the ability to turn invisible before the naked eye and even conventional scanners, completely masking her presence to the unsuspecting enemies. 
+At the same time, nanochips hidden amidst her glossy attire allow her to "blink" across doors and gaps by teleporting across physical barriers, an experimental technology authorized only for the best agents serving the Rush Corps. Pulse has been known for her deadly precision in completing her assignments, infiltrating enemy ranks, and destroying them from within using her exceptional intelligence and spying skills.": [
+    {
+      "trait_type": "Designer",
+      "value": "Burak Dahan"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "28"
+    }
+  ],
+  "files": {
+    "image": "burak2.gif",
+    "fbx_url": "burak.fbx"
+  }
+}

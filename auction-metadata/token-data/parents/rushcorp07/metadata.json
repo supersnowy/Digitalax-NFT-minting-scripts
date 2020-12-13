@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 07: DESTINY",
+  "description": "With an undulating poise and charm in her walk, one might expect Destiny to be a fragile and delicate girl. However, most of the people who expected that are now rounded up in jails across the land as Destiny rocks a diverse arsenal of weapons that can knock anyone down with pinpoint accuracy. Trained as an assassin in a prestigious yet undisclosed insititute in her younger years, Destiny has only enhanced her skills over her time as a RUSH agent, making her career record a mark of envy for her peers. Destiny also performs her role as a team leader for many of RUSH Corps' most dangerous missions due to her remarkable performance as a leader, naturally reflected in her royal attire.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mar Guixa Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "26"
+    }
+  ],
+  "files": {
+    "image": "mar.gif",
+    "fbx_url": "mar.fbx"
+  }
+}

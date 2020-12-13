@@ -1,0 +1,21 @@
+{
+  "name": "Rudolph Heels",
+  "description": "DIGITALAX is delighted to take part in the Whale Community's 12 Days of Christmas exclusive NFT drop. To get us through the Christmas season, we are presenting a pair of single edition Rudolph the Reindeer inspired heels— these red and green suede four strap high heel sandals are embellished with the official Whale Community logo and feature a sharp pointed toe with a leather sole.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Lorena Bello"
+    },
+    {
+      "trait_type": "Whale Community",
+      "value": "12 Days of Christmas"
+    },
+  ],
+  "files": {
+    "image": "REINDEER SANDALS ANIMATION_MOD.gif",
+    "image_front_url": "REINDEER SANDALS_3.png",
+    "image_side_url": "REINDEER SANDALS_4.png",
+    "image_back_url": "REINDEER SANDALS_5.png",
+    "fbx_url": "Reindeer Sandals.fbx"
+  }
+}

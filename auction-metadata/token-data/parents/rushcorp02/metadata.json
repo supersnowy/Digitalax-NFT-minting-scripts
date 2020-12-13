@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 02: ATHENA",
+  "description": "Hailing from an influential family of bureaucrats, Athena is not your average girl despite her minimalistic looks. Behind her delicate looks, she holds a mind as sharp as a samurai's blade. Possessing exceptional administrative skills and intelligence, she acts as one of the major drivers behind the actions and directives of the RUSH Corps, ensuring that the team always get their job done. The sheer strength of her character is illustrated in her simple yet captivating attire, establishing an aura of reliability and authority around her wherever she goes, leaving her peers envious. Athena takes her position as a current member of the Council, assisting the Corps with her acute rationality and decision-making abilities.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Sasa3dimensions"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "21"
+    }
+  ],
+  "files": {
+    "image": "elisa.gif",
+    "fbx_url": "elisa.fbx"
+  }
+}

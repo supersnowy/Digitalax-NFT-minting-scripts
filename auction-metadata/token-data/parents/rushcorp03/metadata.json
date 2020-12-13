@@ -1,0 +1,26 @@
+{
+  "name": "RUSH CORP 03: MIRAGE",
+  "description": "After the introduction of cybernetic enhancements, Mirage knew that she had to live her dream of being the fastest person alive on Earth. Calling herself a proud Cyborg, Mirage was recruited into the RUSH Corps due to her blazingly fast speed, capable of taking over a bullet train in a matter of seconds. Her clothes, cybernetically enhanced like herself, offer three-dimensional protection from debris and even bullets, allowing her to take down her enemies while retaining her speed. Mirage acts as one of the dedicated agents of the RUSH Corps, often operating behind enemy lines to her ability to traverse long distances under the cover of darkness with relative ease using the abilities provided by her enhancements.",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Alyona Briukhanova"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fractional Garment Ownership"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "02"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "22"
+    }
+  ],
+  "files": {
+    "image": "alena_walking.gif",
+    "fbx_url": "animatedGarment.fbx"
+  }
+}
