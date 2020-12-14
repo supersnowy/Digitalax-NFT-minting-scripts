@@ -1,6 +1,7 @@
 {
   "name": "RUSH CORP 08: FROST",
-  "description": "Armed with cybernetically enhanced equipment that protects her from extreme temperatures and repulsors that allow her the ability to freeze her enemies and fly around, Frost leads RUSH Corps scouting teams to track down and eliminate different targets ranging from low-level bandits to dangerous enemies. Like her attire, Frost has a warm and lively heart that has earned her the reputation of being one of the jolliest team leaders currently serving in the Corps. Frost is mostly seen soaring her way through the skyline on the lookout for potential threats to public safety while often freezing petty thieves and robbers in their shoes for the police officers to arrest.": [
+  "description": "Armed with cybernetically enhanced equipment that protects her from extreme temperatures and repulsors that allow her the ability to freeze her enemies and fly around, Frost leads RUSH Corps scouting teams to track down and eliminate different targets ranging from low-level bandits to dangerous enemies. Like her attire, Frost has a warm and lively heart that has earned her the reputation of being one of the jolliest team leaders currently serving in the Corps. Frost is mostly seen soaring her way through the skyline on the lookout for potential threats to public safety while often freezing petty thieves and robbers in their shoes for the police officers to arrest.",
+  "attributes": [
     {
       "trait_type": "Designer",
       "value": "María Ruano"
