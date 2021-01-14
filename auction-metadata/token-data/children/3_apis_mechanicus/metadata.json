@@ -1,24 +1,24 @@
 {
-  "name": "Gridded Greenery ",
-  "description": "A grid of faces and greenery you may find on a dog walk.",
+  "name": "Apis Mechanicus",
+  "description": "A futuristic pattern design inspired by my digital collage series Rise of Homo Mechanicus.",
   "external_url": "https://www.digitalax.xyz",
   "attributes": [
     {
       "trait_type": "Degrees of Exclusivity",
-      "value": "Semi-Rare"
+      "value": "Exclusive"
     },
     {
       "trait_type": "Type",
-      "value": "M"
+      "value": "T"
     },
     {
       "trait_type": "Issue No.",
-      "value": "4112"
+      "value": "7113"
     },
     {
       "trait_type": "Artist",
-      "value": "Defaced Studio"
+      "value": "GeorgeBoya"
     }
   ],
-  "image": "https://gateway.pinata.cloud/ipfs/QmPvus1fw6poX2gJAS6qgkPaK12tqrRhJbS9pYAgwuUqpr"
+  "image": "https://gateway.pinata.cloud/ipfs/QmSitdmq74gR6Ut2ppNCuZgH3UWPVhEa3memyb4SFQRdKb"
 }
