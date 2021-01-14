@@ -1,0 +1,24 @@
+{
+  "name": "Sit In Green",
+  "description": "A field, river, and trees. Sit if you please.",
+  "external_url": "https://www.digitalax.xyz",
+  "attributes": [
+    {
+      "trait_type": "Degrees of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Type",
+      "value": "M"
+    },
+    {
+      "trait_type": "Issue No.",
+      "value": "4111"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Defaced Studio"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmRVFN3PoeZrXEn8o5MKEW54nKQeFV4ZSGyVbPY9GTe2TH"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Crux Mechanicus",
+  "description": "A futuristic pattern design inspired by my digital collage series Rise of Homo Mechanicus.",
+  "external_url": "https://www.digitalax.xyz",
+  "attributes": [
+    {
+      "trait_type": "Degrees of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Type",
+      "value": "P"
+    },
+    {
+      "trait_type": "Issue No.",
+      "value": "7111"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "GeorgeBoya"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmcTJ1FYvjzXcwdxpnZcdP8mrid3u6gd3DEkEuqwVhtfHN"
+}

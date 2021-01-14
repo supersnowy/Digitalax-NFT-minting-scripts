@@ -25,11 +25,8 @@
       "value": "Semi-Rare"
     }
   ],
-  "files": {
-    "image": "btcForPizz_1k.gif",
-    "image_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Front (1).png",
-    "image_back_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Back (1).png",
-    "image_mask_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front (1).png",
-    "fbx_url": "master.fbx"
-  }
+  "image_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Front (1).png",
+  "image_back_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Back (1).png",
+  "image_mask_front_url": "2K_Christina_Lalch_Bitcoin_for_Pizza_Mask_Front (1).png",
+  "fbx_url": "master.fbx"
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Gridded Greenery ",
+  "description": "A grid of faces and greenery you may find on a dog walk.",
+  "external_url": "https://www.digitalax.xyz",
+  "attributes": [
+    {
+      "trait_type": "Degrees of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "M"
+    },
+    {
+      "trait_type": "Issue No.",
+      "value": "4112"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Defaced Studio"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmPvus1fw6poX2gJAS6qgkPaK12tqrRhJbS9pYAgwuUqpr"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rest In Green",
+  "description": "He's not dead, just sleeping.",
+  "external_url": "https://www.digitalax.xyz",
+  "attributes": [
+    {
+      "trait_type": "Degrees of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Type",
+      "value": "M"
+    },
+    {
+      "trait_type": "Issue No.",
+      "value": "4113"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Defaced Studio"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmYod6Bn2n6bXLYenqTjRywUfJsdTGkRK2u6jUGjcMPAoN"
+}

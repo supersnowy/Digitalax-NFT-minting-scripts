@@ -1,0 +1,24 @@
+{
+  "name": "Astral Mechanicus",
+  "description": "A futuristic pattern design inspired by my digital collage series Rise of Homo Mechanicus.",
+  "external_url": "https://www.digitalax.xyz",
+  "attributes": [
+    {
+      "trait_type": "Degrees of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Type",
+      "value": "P"
+    },
+    {
+      "trait_type": "Issue No.",
+      "value": "7112"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "GeorgeBoya"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/Qmd5o5GLCi82nBBCs57ZTn36gYXp5o3KgSDV3f5zbuUPqd"
+}
