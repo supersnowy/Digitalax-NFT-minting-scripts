@@ -1,0 +1,25 @@
+{
+  "name": "The METAJACKET: RTFKT X Retrocoin",
+  "description": "The META JACKET is RTFKT's first jacket. The METAJACKET embodies RTFKT's vision in a new digital skins economy and creative new age in digital Fashion, reskinned by next gen artist Retrocoin, a creative collective of 3 working on creating a unique and connective style to every piece, recollecting the past, living the present, representing the future.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmWTePf5gSm9j4tm32AjgWMvgG2ThsNf3a4DKJgNCS2qfu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbGM92gzhCjmv3tRMPGSYAYfqL5zKLCkoRFXWRRNtDcfA",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "RTFKT"
+    },
+    {
+      "trait_type": "FGO Artist",
+      "value": "Retrocoin"
+    },
+    {
+      "trait_type": "Auction",
+      "value": "04"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    }
+  ]
+}
