@@ -1,9 +1,9 @@
 {
-  "name": "The METAJACKET: RTFKT X Zaid Kirdsey",
-  "description": "The META JACKET is RTFKT's first jacket. The METAJACKET embodies RTFKT's vision in a new digital skins economy and creative new age in digital Fashion, reskinned by next gen artist Zaid Kirdsey, who creates wonderful worlds and creatures, bringing collectors into his colourful imagination for an unforgettable journey.",
+  "name": "The METAJACKET: RTFKT X Retrocoin",
+  "description": "The META JACKET is RTFKT's first jacket. The METAJACKET embodies RTFKT's vision in a new digital skins economy and creative new age in digital Fashion, reskinned by next gen artist Retrocoin, a creative collective of 3 working on creating a unique and connective style to every piece, recollecting the past, living the present, representing the future.",
   "external url": "https://www.digitalax.xyz",
-  "animation_url": "https://gateway.pinata.cloud/ipfs/QmQcRsSSPeEUScLiQyuZ2QMJNhPRwwz51QM4SkNa1Xb9ER",
-  "image": "https://gateway.pinata.cloud/ipfs/QmeyTuVq9JU12SGWGWvvQhsrPB6bfKLn7jYcVn31Csd21C",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmWTePf5gSm9j4tm32AjgWMvgG2ThsNf3a4DKJgNCS2qfu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbGM92gzhCjmv3tRMPGSYAYfqL5zKLCkoRFXWRRNtDcfA",
   "attributes": [
     {
       "trait_type": "Designer",
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "FGO Artist",
-      "value": "Zaid Kirdsey"
+      "value": "Retrocoin"
     },
     {
       "trait_type": "Auction",
@@ -22,5 +22,4 @@
       "value": "Exclusive"
     }
   ]
-}
 }
