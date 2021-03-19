@@ -1,0 +1,24 @@
+{
+  "name": "Player Access Card (Genesis DIGI Bundle)",
+  "description": "The Player Access Card is part of the DIGI Bundle for enabling Players and Creators in the DIGITALAX and ESPA ecosystem. The PAC allows the holder a unique in-game flare when competing in the esports battles. A portion of the proceeds from the PAC and DIGI Bundle sale go towards the Player Development Fund for helping Players and Creators level up from stage 0 to 1. For the Among Us Sheriff Mod launch, the PAC gives a holder a higher chance of being allocated the Imposter role.",
+  "external url": "https://skins.digitalax.xyz/",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmem8dCoDLJSkHZ8xguwkpt9KAFtfYq28M2HjQmAc37TYW",
+  "attributes": [
+    {
+      "trait_type": "Issuance",
+      "value": "Among Us Genesis"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DIGI Bundle"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    }
+  ]
+}
