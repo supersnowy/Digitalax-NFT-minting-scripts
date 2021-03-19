@@ -1,0 +1,33 @@
+{
+  "name": "CC Pluto Skin",
+  "description": "Gravity not an issue.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmautmtVmQP8T8NiT8P3j2Uz8dUE8rhwPTKf8SLEzma6Np",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUJ6nZRE3jVKYncG6FU62BhEA9bs64kKvW9JUYzZdrZ6u",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "8"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "48"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CC Powder Skin",
+  "description": "Built for speed.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmURbfvN6cPfvH2rHkbmCZs3YvXweosWZecSWEfjoL1gpC",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcmc9f3HLiurWs9W1eY4XkuKYFuaVE2Rcc96aXt135Lmi",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "13"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "44"
+    }
+  ]
+}

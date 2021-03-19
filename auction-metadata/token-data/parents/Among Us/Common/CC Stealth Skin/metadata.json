@@ -1,0 +1,33 @@
+{
+  "name": "CC Stealth Skin",
+  "description": "Built for espionage.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmaxMhenonvyEYuJk8HVaYZYBEewHS1iHWV6qgJM6eDpSo",
+  "image": "hhttps://gateway.pinata.cloud/ipfs/QmYZ76xQmUpPa3mxpXB4deN8tfukq5CBgaNh1uha8LhuqT",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "11"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "45"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CC Ranger Skin",
+  "description": "Battle mode engaged.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmTinC5zMK1ryb4a59V9tV3q9dAw6ijDd9fY3amF8humWk",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZMVmuL4kERdB8hvaUmbt77CK5JWyV7dq5XKZL8dZTi9t",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "15"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "82"
+    }
+  ]
+}

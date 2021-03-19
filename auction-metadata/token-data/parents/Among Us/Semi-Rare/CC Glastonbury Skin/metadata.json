@@ -1,0 +1,33 @@
+{
+  "name": "CC Glastonbury Skin",
+  "description": "It’s all peace and love until you find the imposter.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmURbfvN6cPfvH2rHkbmCZs3YvXweosWZecSWEfjoL1gpC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRZ5D3D1PaiE1qSY6hkjNHUQwPMHtgSU9DTRMgJPMLgsf",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "7"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "69"
+    }
+  ]
+}

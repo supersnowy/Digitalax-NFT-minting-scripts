@@ -1,0 +1,33 @@
+{
+  "name": "CC Undercover Skin",
+  "description": "Strapped in and ready for action.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmNPhdmoCpaGmNMghJa99SR5BDaKazETvs7gcH21fu8mDq",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVMMpujCbbPMLo5dJF5wC9CzxWaTfi27MzK9z62sAhnwd",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "34"
+    }
+  ]
+}

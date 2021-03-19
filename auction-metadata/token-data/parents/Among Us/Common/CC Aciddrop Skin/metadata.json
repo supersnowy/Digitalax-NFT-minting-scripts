@@ -1,0 +1,33 @@
+{
+  "name": "CC Aciddrop Skin",
+  "description": "Pretends to be chill. Isn’t.",
+  "external url": "https://www.digitalax.xyz",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmVwN2vCxTSTdG1xC2U4SRR1dx6xzSEmFVUZhbcWQzWNWj",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdBb8vGLURP6RzYjJ9ieGxnnT5ReEbiw1cgHHZ6vfLQ6z",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Kodomodachi"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Charli Cohen ESPA Genesis"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Among Us Sheriff Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "3"
+    },
+    {
+      "trait_type": "Hat ID",
+      "value": "51"
+    }
+  ]
+}
