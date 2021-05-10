@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Degrees of Exclusivity",
-      "value": "Semi-Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Type",
@@ -19,6 +19,10 @@
     {
       "trait_type": "Artist",
       "value": "Emmatest"
+    },
+    {
+      "trait_type": "Gatemaker",
+      "value": "Gatemaker1"
     }
   ]
 }
