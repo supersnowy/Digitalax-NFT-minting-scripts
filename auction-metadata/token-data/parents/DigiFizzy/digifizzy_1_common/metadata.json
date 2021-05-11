@@ -1,9 +1,9 @@
 {
-  "name": "DIGIFIZZY Issue One Semi-Rare Bundle",
+  "name": "DIGIFIZZY Issue One Common Bundle",
   "description": "DIGIFIZZY is the first of its kind— a NFT native Metaverse Magazine. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new decentralized publishing model. DIGIFIZZY is for the gatemakers. We are here to mod the metaverse.",
   "external url": "https://www.digifizzy.xyz",
-  "Animation": "https://gateway.pinata.cloud/ipfs/QmWd7Y9gfec8deK6f2j12WnsiWAmbPvhJAEqLPApgbhFMB",
-  "image": "https://gateway.pinata.cloud/ipfs/Qmc511jQdSPocxFP2dhvnkXcfcG29yxP7G9qtnqyc371eQ",
+  "Animation": "https://gateway.pinata.cloud/ipfs/QmW9mvZcartp671G6JXzz3zt12cCEPHZofPH9cswVcVrXg",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQq7U3aT12xxuZdFWbFxdgCMRQLUFYoFv33NhgRT6CUyv",
   "attributes": [
     {
       "trait_type": "Issue No",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Degree of Exclusivity",
-      "value": "Semi-Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Anchor Gatemaker",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "2"
+      "value": "1"
     },
     {
       "trait_type": "DigiFizzy Pioneers",
