@@ -4,7 +4,7 @@
   "external url": "https://www.digitalax.xyz",
   "animation_url": "https://gateway.pinata.cloud/ipfs/QmfZsThhHiGiM7YCevGff6rz65CWVUurLausLegYdoMxCY",
   "image": "https://gateway.pinata.cloud/ipfs/QmRDgi3Erb2QrRR2ZmJRDTX9NyyuMARtbAfkjSNLEYwhgc",
-  "collection_id": "5",
+  "collection_id": "1",
   "rarity": "Exclusive",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Issue No.",
-      "value": "1"
+      "value": "Three"
     },
     {
       "trait_type": "Issue Name",
