@@ -1,0 +1,29 @@
+{
+  "name": "The Sherwani",
+  "description": "The world's first traditional India digital fashion collection is ideated and pioneered by Ravi Singh, a newcomer to digital fashion yet avid supporter of inspiring traditional cultural inclusivity in the industry, 3D modeled by digital fashion designer, Lorena Bello, and animated and rendered by DIGITALAX. The Sherwani is a long coat-like jacket that is knee length and originated in 19th century India. The jacket contains lotus flowers, which symbolize purity, enlightenment and self-regeneration— a popular symbol in India and around the world. ",
+  "external url": "https://digitalax.xyz/marketplace",
+  "Animation": "https://gateway.pinata.cloud/ipfs/QmZWEf1WeWVGPcs4R8mU8jinWykzZXNYE2jy2EZvrhrDNN",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcMVfrrfSm58n7zazexwv6qJdu4rZPpw3GQhcgnMNH4TF",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Ravi Singh, Lorena Bello, DIGITALAX"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "Into the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Traditional India Digital Fashion, Cultural Fashion, Lotus Flowers, Purity, Enlightenment, Self Regeneration"
+    }
+  ]
+}
