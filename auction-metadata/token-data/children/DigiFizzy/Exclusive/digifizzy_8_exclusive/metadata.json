@@ -1,0 +1,29 @@
+{
+  "name": "DRIP Collection One: Opening the Metaverse",
+  "description": "Crossing over the digi-fizzy realms for the first hybrid digital physical fashion NFT line, designed in-house by DIGITALAX. The collection is designed to serve as a gateway for fashion lovers into the world of web3, crypto and NFTs. A metaversal hoodie with 3 colour choices; navy blue, white and black. Each piece comes with a unique memetic NFT patch, representing the digital metaverse and how this makes fashion and commerce more sustainable, more ubiquitous and expands core channels for onboarding into web3 and decentralisation. See more of what your physical item unlocks at https://drip.digitalax.xyz/",
+  "external url": "https://drip.digitalax.xyz/",
+  "Animation": "https://gateway.pinata.cloud/ipfs/QmY2WZT1umXjtFAX42Emuikq8LFJQysqFXdrjUL4tWTsC5",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSzmWoNVMm8xx8ouHvQJcH9WX5m3YUBancERPRX6aAoXg",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "Into the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "3"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Memetic Proof of Uniqueness, Inventory Claim Ticket, Rep Your Drip IRL, Memes for the Metaverse, Crossing the Digi-Fizzy Realms"
+    }
+  ]
+}

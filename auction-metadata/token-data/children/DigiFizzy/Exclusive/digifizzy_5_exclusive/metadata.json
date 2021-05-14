@@ -1,0 +1,28 @@
+{
+  "name": "Tosa and Yoshi",
+  "description": "TenshiGirl.io is a crypto trading platform and NFT collectible trading card project, built on Ethereum. They are bridging world renowned artists to create the world of Vestrian— a narrative filled with rich characters, storylines and battle between factions. Tosa and Yoshi was designed by Tigerjune, a korean artist who is growing in popularity in East Asia and on social media with her tribute and original anime artwork.",
+  "external url": "https://tenshigirl.io/",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWYf4YDnhdG2GCHZURgotyDUkeWza7tQQmX8q2ioNyJ7k",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Tenshi Girl"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "Into the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "3"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Anime, World of Vestrian, Collectible Trading Cards, Dynamic Scarcity, In-Game Functionality"
+    }
+  ]
+}

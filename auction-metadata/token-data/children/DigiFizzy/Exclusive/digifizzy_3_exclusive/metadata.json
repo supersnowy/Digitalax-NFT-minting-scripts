@@ -1,0 +1,28 @@
+{
+  "name": "Haruto",
+  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For the genesis of Web3 Wizards we are championing the DIGITALAX Engineering Team. A group of metaverse engineers. These devs have successfully deployed the first ever MultiToken Bridge between Layer 1 Ethereum Mainnet and Layer 2 Polygon (Previously Matic Network), supporting the ERC-998 standard and variants. It’s all open sourced.",
+  "external url": "https://github.com/jupiteruwdev",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWpedFDzseP4hZLiL7PBb8sTf6tDpNhYaKyrrYVmBbenK",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "DIGITALAX Metaverse Engineer"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "Into the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "3"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Genesis, Metaverse Engineer, Web3 Wizard, Layer 2 Trailblazers, First MultiToken Bridge"
+    }
+  ]
+}

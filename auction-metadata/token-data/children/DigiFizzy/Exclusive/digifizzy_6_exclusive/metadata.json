@@ -1,0 +1,29 @@
+{
+  "name": "Blaze",
+  "description": "ESPA is the first casual esports platform for indie and modded content. Players use the DIGITALAX digital fashion skins to authenticate their in-game identity and start earning $MONA as they gain winning streaks, going from amateur to pro. Your Minecraft ESPA skin was designed in collaboration with DIGITALAX and MC skin artist Cleora. You can take it directly in-game and use it in the upcoming ESPA Minecraft casual tournaments.",
+  "external url": "http://espa.digitalax.xyz",
+  "Animation": "https://gateway.pinata.cloud/ipfs/QmaywGpEBLcRwdZq5RtHGTx9q17iPitJC3nQGFAaJ2EmCJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY2sZsvqvT2gLVmLEVCv5J41BU3jH6XWgifiCrPZrkMD",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "DIGITALAX, Cleora"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "Into the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "3"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Amateur to Pro, Level Up, Casual Esports, Skins in the Game, Mod the Metagame, Winning Streaks"
+    }
+  ]
+}
