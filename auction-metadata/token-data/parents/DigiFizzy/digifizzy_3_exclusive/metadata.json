@@ -1,8 +1,8 @@
 {
   "name": "DIGIFIZZY Issue One Exclusive Bundle",
-  "description": "DIGIFIZZY is the first of its kind— a NFT native Metaverse Magazine. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new decentralized publishing model. DIGIFIZZY is for the gatemakers. We are here to mod the metaverse.",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the exclusive unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; Tenshi Girl rare trading card, ESPA in-game cyber minecraft skin, first traditional Indian digital fashion collectible female outfit, synth audio tune from renowned San Francisco based music veteran Gregory Gordon, physical DIGITALAX DRIP fashion item with on-chain utility, Web3 Wizards Genesis collection, a unique 3D modeled artwork by collaborative project HYPERREAALIYAH + HIDDEN content and additional NFT airdrops! We are here to mod the metaverse.",
   "external url": "https://www.digifizzy.xyz",
-  "Animation": "https://gateway.pinata.cloud/ipfs/QmYXij2SsSCAArn9xaLUSvJ7xUh4x9Ei256NDyK8zWC6PN",
+  "Animation": "https://gateway.pinata.cloud/ipfs/QmT2n1bGqZxC5Vfw9i6zDE75eNaLpBPBoAvYxRvyhbunbD",
   "image": "https://gateway.pinata.cloud/ipfs/QmbfLPqBbHcMohQAYcyuSC1stM9LE8hJEwCiwfkaohF4ds",
   "attributes": [
     {
@@ -22,13 +22,12 @@
       "value": "DIGITALAX"
     },
     {
-    {
       "trait_type": "Collection ID",
       "value": "3"
     },
     {
       "trait_type": "DigiFizzy Pioneers",
-      "value": "DIGITALAX, HYPERREAALIYAH, Tenshi Girls, Ravi Singh, Lorena Bello, Cleora, Gregory J. Gordon, J-Kind, Solsage, Singe, B Wiley."
+      "value": "DIGITALAX, Tenshi Girl, Ravi Singh, Lorena Bello, HYPERREAALIYAH, Cleora, Gregory Gordon, ESPA"
     }
   ]
 }
