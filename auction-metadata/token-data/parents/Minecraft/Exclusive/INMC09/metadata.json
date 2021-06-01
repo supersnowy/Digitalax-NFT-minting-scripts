@@ -1,0 +1,29 @@
+{
+  "name": "The Chairman",
+  "description": "GameStop united the country at a time when nothing else could. Nothing I say is financial advice.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmWaF876zh2DQCpNMF2V7MPvuADg3ZEvcfKrbjCx7iMcKi",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmaX9Ld7X2a5mVGkCiqhBNtxbFkcmaePbgXVJ8bj9RyFTm",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC09"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Ethereum Unicorn",
+  "description": "The Ethereum Unicorn— a rare and stupendous sighting.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmVVjDnyX1Faq1Z39prGiNCLzNgD6pfSTVp5sVxhTR9fw8",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmPdY9sSJB2RRfQLTLWujNyczT6S2QLdbvAvBXLQv9XW4y",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC12"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Owocki",
+  "description": "Existing in the quadratic lands and surviving off of open source liquid gold.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmRxuP3DyCaAFfiGZjRfN8rrEemcoJtGfBjvJ17oi9b6B9",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmYQkRzwudBmDhfJZk5mpQdCRjQ7dZwoqF2JWjFSEFbcKF",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC11"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "The Bezos Web",
+  "description": "Gatekeepers don't just slow innovation, they completely destroy the commons and everything that web3 stands for. Algos have attitude.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXWRNpFyYfVLmYrrdPmWgbciHeG69VGrBwkcuCFKWt4A7",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmXhyhhZ9Aq9ZKMp5ch2SqdYi6bZzvVgojm6D9i1PrGG53",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC06"
+    }
+  ]
+}

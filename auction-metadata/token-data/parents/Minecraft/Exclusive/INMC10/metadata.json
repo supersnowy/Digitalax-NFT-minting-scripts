@@ -1,0 +1,29 @@
+{
+  "name": "The Hustler",
+  "description": "Stop whining, start hustling.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmWJmos9zmqmoAFxnbzGD9iMVemPgZAWtdcY3GXkYyHEGB",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmUi5QjTbwV1PopdyHxmMssZouWb6spSoYT6r949ymeqdm",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC10"
+    }
+  ]
+}

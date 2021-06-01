@@ -1,0 +1,29 @@
+{
+  "name": "Bluepink",
+  "description": "Punk culture is undefinable. Dress exactly as you wish. You don't need anything to be punk. More is more.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/Qme7mtbFeiD48gEnPsci4mEAPywWNFcRUQhKPzU7Nd9ca3",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmWPVFy2oGy1Lkdyta31nxkz5VCFfYGU8ErMYZCPHGuqbe",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC03"
+    }
+  ]
+}

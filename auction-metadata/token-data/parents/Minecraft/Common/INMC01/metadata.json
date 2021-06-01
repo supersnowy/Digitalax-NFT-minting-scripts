@@ -1,0 +1,29 @@
+{
+  "name": "The Glitched Face King (SMB)",
+  "description": "Melting faces with glitches and rainbow strobes.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmRW6p67RsbcHvBbeizL2TFX8YtfdhQpYf5Se3TwSTBLos",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmWNEiLjYpvDJMJZUBVTgEhSUcG5f1op8sisnPdkTza6V5",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC01"
+    }
+  ]
+}

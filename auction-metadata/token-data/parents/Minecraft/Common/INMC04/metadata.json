@@ -1,0 +1,29 @@
+{
+  "name": "Beast Mode",
+  "description": "I woke up in beast mode. You get a house! You get a house... 10 WEI houses for everyone!",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmYE7kToPS4i96WTwNL3hLQz4zxiqGAC1RwkMn64kQGpqw",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmRS4j79CcmQiYodq9ckJhYzL4Eay9mXqdxksUv7tNdTnu",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cleora"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Minecraft"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Skin Name",
+      "value": "INMC04"
+    }
+  ]
+}
