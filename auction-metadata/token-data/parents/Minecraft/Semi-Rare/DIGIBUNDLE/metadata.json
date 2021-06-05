@@ -1,0 +1,25 @@
+{
+  "name": "Minecraft DIGI Bundle",
+  "description": "he DIGI Bundle is the ultimate Esports, Gaming, Digital Fashion package. It contains 4 unique surprises that cross the digital-physical realms. 1. Exclusive access to Lucky Blocks Bed Wars, unique cosmetics like pets, particles and trails, and kill effects that will also be given along with the release of Lucky Blocks 2. Special Edition Minecraft ESPA skin, designed by Cleora. 3. Physical REP Your Guild Minecraft Hoodie with unique NFT proof of authentication. 4. Best Plays of the Game Memorabilia NFT from the Minecraft Bed Wars tournaments and airdropped after the tournament rounds.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmVsV93QdVdqqbqMMm9VhZWHZW1Y6FuxYRgRKs8KTm51cA",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmctArVrTggDjdXafbbLMCrk13qRqpdbYKxKLKxHvGT2M5",
+  "attributes": [
+    {
+      "trait_type": "Issuance",
+      "value": "Minecraft Bed Wars"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DIGI Bundle"
+    },
+    {
+      "trait_type": "Game Classifier",
+      "value": "Minecraft Mod"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    }
+  ]
+}
