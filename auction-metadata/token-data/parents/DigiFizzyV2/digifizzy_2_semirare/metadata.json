@@ -1,0 +1,33 @@
+{
+  "name": "DigiFizzy Issue Two Semi-Rare Bundle",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the semi-rare unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; Digital Fashion Flex Your Flare collections, 9EN AI Robot Visual Audio piece, DRIP Minecraft Guild Physical Hoodie, Human Rights Foundation Wear Your Values Fashion scene collectible, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
+  "external url": "https://www.digifizzy.xyz",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmYZqWzDKYvVunDyW13R6Rg4X5sTmd7EKWtGB6jzhY4Lvz",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmSxUumMbNnzyKD431NkqriVV6qnf6bcaNw928XRPFQUTV",
+  "attributes": [
+    {
+      "trait_type": "Issue No",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Open Commons & the Decentralised Aux"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Anchor Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "6"
+    },
+    {
+      "trait_type": "DigiFizzy Pioneers",
+      "value": "DIGITALAX, 9EN, Nicole Savitskaya, BBlundeRR, ESPA, DRIP, Human Rights Foundation, Maria Ruano, Xenotech, Arjay Soul, Antonio Lopez, Mia Locklace, Marcello Baldari, Blade Runway"
+    }
+  ]
+}
