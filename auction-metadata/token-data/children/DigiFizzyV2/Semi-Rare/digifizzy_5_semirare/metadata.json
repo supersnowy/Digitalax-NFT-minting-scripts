@@ -1,12 +1,12 @@
 {
-  "name": "Minecraft Guild Hoodie Green",
-  "description": "Crossing over the digi-fizzy realms with the Minecraft Guild Hoodie. REP your tribe IRL and battle Herobrine in the ESPA casual esports tournaments as your hoodie unlocks ESPA XP for leveling up with $MONA. See more of what your physical item unlocks at https://drip.digitalax.xyz/",
-  "external url": "https://drip.digitalax.xyz/",
-  "image": "https://digitalax.mypinata.cloud/ipfs/Qmaw1ehRHAAbt8mxk5PrtRPsSHCePF9VFEzqMLSpyPwfD4",
+  "name": "Polaris X35 Suit",
+  "description": "Designed by Mia Locklace and modeled by Sarah Reikka, a French Canadian virtual influencer & model. DIGITALAX ran its first open digital fashion competition bringing together amazingly talented creators from across the realms, focused on enabling creatives for modding their version of the metaverse. The content champions of the competition have been included in the DIGIFIZZY content bundles, where buyers will also receive in-game ESPA compatible versions of these skins during the next ESPA esports launch, all hand-crafted in-house through the Global Designer Network.",
+  "external_url": "https://digitalax.xyz/marketplace",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmdgEznyDpn1yhex8NZiFu9qL6CDR8owYF2D15pRdGu9ke",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "DIGITALAX"
+      "value": "Mia Locklace"
     },
     {
       "trait_type": "Issue Name",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "6"
+      "value": "10"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "REP IRL, DRIP, Hybrid Digi-Physical"
+      "value": "Flex Your Flare, Digital Fashion, Across the Metaverse, ESPA Compatible"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "PRIZEKICK",
   "description": "The first XENOTECH Shoe—the kind that would be worn by an esoteric Extended Reality Architect in XENO City.",
-  "external url": "https://drip.digitalax.xyz/",
+  "external_url": "https://drip.digitalax.xyz/",
   "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXCf8t7ioZaQkFTQZvRFiwi3DfrdugdFj2wW9aZarC57d",
   "image": "https://digitalax.mypinata.cloud/ipfs/QmbfrSPe1ALp1y8J6NhhVYRKHL1HQQZwZYHfN1JRYgLk4h",
   "attributes": [
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "5"
+      "value": "9"
     },
     {
       "trait_type": "Unique Traits",

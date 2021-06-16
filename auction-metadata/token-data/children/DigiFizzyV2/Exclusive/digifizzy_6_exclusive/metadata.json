@@ -1,12 +1,12 @@
 {
-  "name": "Minecraft Guild Hoodie Purple",
-  "description": "Crossing over the digi-fizzy realms with the Minecraft Guild Hoodie. REP your tribe IRL and battle Herobrine in the ESPA casual esports tournaments as your hoodie unlocks ESPA XP for leveling up with $MONA. See more of what your physical item unlocks at https://drip.digitalax.xyz/",
-  "external url": "https://drip.digitalax.xyz/",
-  "image": "https://digitalax.mypinata.cloud/ipfs/QmNuMjKU7jPvrU53wuPBzsQAM25RC53aJLUcA9mDkzf7ex",
+  "name": "Wear Your Values HRF Leap of Faith: Cross Over",
+  "description": "The Wear Your Values campaign brings voice to both the exploitation, tyranny and oppression of workers along the supply chain, unseen Creators and more broadly highlighting the power of Fashion throughout all of this. The Human Rights Foundation is collaborating with DIGITALAX and Maria Ruano to draw attention to human rights concerns in closed societies, voice the importance of a globally transparent supply chain and bridge the Digi-Fizzy (Digital-Physical) realms for promoting positive compounding action & distributed content generation native to movements for social & economic change. The 3D glitched digital fashion scene highlights the tension between the cross over from the physical to the digital and how Creators of all kinds summon the courage to leap into the unknown and take a stance against exploitation.",
+  "external_url": "https://digifizzy.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmczefaLgGCwRgL6x2PLzym4PhyEyiZKHu2AeNfZVuDs76",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "DIGITALAX"
+      "value": "Human Rights Foundation, Maria Ruano, DIGITALAX"
     },
     {
       "trait_type": "Issue Name",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "REP IRL, DRIP, Hybrid Digi-Physical"
+      "value": "Wear Your Values, Human Rights Foundation, Digital Fashion"
     }
   ]
 }

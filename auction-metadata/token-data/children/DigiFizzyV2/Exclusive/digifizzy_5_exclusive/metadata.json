@@ -1,17 +1,16 @@
 {
-  "name": "PRIZEKICK",
-  "description": "The first XENOTECH Shoe—the kind that would be worn by an esoteric Extended Reality Architect in XENO City.",
-  "external url": "https://drip.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXCf8t7ioZaQkFTQZvRFiwi3DfrdugdFj2wW9aZarC57d",
-  "image": "https://digitalax.mypinata.cloud/ipfs/QmbfrSPe1ALp1y8J6NhhVYRKHL1HQQZwZYHfN1JRYgLk4h",
+  "name": "Pooja Ranjan",
+  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this collection we are recognising some of the core contributors and front runners of EIP-1559— perhaps one of the most important economical updates for the entirety of Ethereum’s future and setting the ecosystem up for even more adoption success. ",
+  "external_url": "https://github.com/poojaranjan",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/Qmf3MiyhN6MCVjHLoTWtPU4ep4NCXPxjM1gEBApjQkUh5x",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "XENOTECH"
+      "value": "EIP1559 Front Runner"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Open Commons & the Decentralised Aux"
+      "value": "The Open Commons & The Decentralised Aux"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -19,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Glass Ruby Laces, LED fabric, Digital Silver, Perforated Chrome, Video fabric, PrizeDevil Keychain, XENOTECH Plated Logo"
+      "value": "Genesis, EIP1559 Front Runner, Web3 Wizard, ETH2.0"
     }
   ]
 }

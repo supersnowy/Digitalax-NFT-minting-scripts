@@ -1,16 +1,16 @@
 {
-  "name": "Wear Your Values HRF Leap of Faith: Cross Over",
-  "description": "The Wear Your Values campaign brings voice to both the exploitation, tyranny and oppression of workers along the supply chain, unseen Creators and more broadly highlighting the power of Fashion throughout all of this. The Human Rights Foundation is collaborating with DIGITALAX and Maria Ruano to draw attention to human rights concerns in closed societies, voice the importance of a globally transparent supply chain and bridge the Digi-Fizzy (Digital-Physical) realms for promoting positive compounding action & distributed content generation native to movements for social & economic change. The 3D glitched digital fashion scene highlights the tension between the cross over from the physical to the digital and how Creators of all kinds summon the courage to leap into the unknown and take a stance against exploitation.",
-  "external url": "https://digifizzy.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmQodtcfenUSGV2twWinWFB3TBefdsDkT1E3ketY5xe1bz",
+  "name": "Pooja Ranjan",
+  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this collection we are recognising some of the core contributors and front runners of EIP-1559— perhaps one of the most important economical updates for the entirety of Ethereum’s future and setting the ecosystem up for even more adoption success. ",
+  "external_url": "https://github.com/poojaranjan",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/Qmf3MiyhN6MCVjHLoTWtPU4ep4NCXPxjM1gEBApjQkUh5x",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "Human Rights Foundation, Maria Ruano, DIGITALAX"
+      "value": "EIP1559 Front Runner"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Open Commons & the Decentralised Aux"
+      "value": "The Open Commons & The Decentralised Aux"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Wear Your Values, Human Rights Foundation, Digital Fashion"
+      "value": "Genesis, EIP1559 Front Runner, Web3 Wizard, ETH2.0"
     }
   ]
 }

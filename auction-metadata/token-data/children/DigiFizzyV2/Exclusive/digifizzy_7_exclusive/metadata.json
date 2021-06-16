@@ -1,16 +1,16 @@
 {
-  "name": "Pooja Ranjan",
-  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this collection we are recognising some of the core contributors and front runners of EIP-1559— perhaps one of the most important economical updates for the entirety of Ethereum’s future and setting the ecosystem up for even more adoption success. ",
-  "external url": "https://github.com/poojaranjan",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/Qmf3MiyhN6MCVjHLoTWtPU4ep4NCXPxjM1gEBApjQkUh5x",
+  "name": "Minecraft Guild Hoodie Purple",
+  "description": "Crossing over the digi-fizzy realms with the Minecraft Guild Hoodie. REP your tribe IRL and battle Herobrine in the ESPA casual esports tournaments as your hoodie unlocks ESPA XP for leveling up with $MONA. See more of what your physical item unlocks at https://drip.digitalax.xyz/",
+  "external_url": "https://drip.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmdjNoaD1tYpBPJm6XktEtPMKSNQE9om2cf9zV7u6Zs5HJ",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "EIP1559 Front Runner"
+      "value": "DIGITALAX"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Open Commons & The Decentralised Aux"
+      "value": "The Open Commons & the Decentralised Aux"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Genesis, EIP1559 Front Runner, Web3 Wizard, ETH2.0"
+      "value": "REP IRL, DRIP, Hybrid Digi-Physical"
     }
   ]
 }

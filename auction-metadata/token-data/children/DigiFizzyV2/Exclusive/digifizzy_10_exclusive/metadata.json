@@ -1,16 +1,16 @@
 {
-  "name": "Alex Beregszaszi",
-  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this collection we are recognising some of the core contributors and front runners of EIP-1559— perhaps one of the most important economical updates for the entirety of Ethereum’s future and setting the ecosystem up for even more adoption success. ",
-  "external url": "https://github.com/axic",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmVYAu3tn4TgrPYWM1i5g8JTr427bSDzk83TwLzioPFVJe",
+  "name": "Welcome to the Meta-Jungle",
+  "description": "Blade Runway is the first Digital Couture Fashion House in Italy. Founded by designers Greta Meacci and Alan Aronica, the project was launched to bring the high quality and know-how of traditional Italian haute couture into the digital world. DIGITALAX ran its first open digital fashion competition bringing together amazingly talented creators from across the realms, focused on enabling creatives for modding their version of the metaverse. The content champions of the competition have been included in the DIGIFIZZY content bundles, where buyers will also receive in-game ESPA compatible versions of these skins during the next ESPA esports launch, all hand-crafted in-house through the Global Designer Network.",
+  "external_url": "https://digitalax.xyz/marketplace",
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qme1ChGVGhhMokYS9bWJ914uDimAGMeSv5R4NraYqeZe5s",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "EIP1559 Front Runner"
+      "value": "Blade Runway"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Open Commons & The Decentralised Aux"
+      "value": "The Open Commons & the Decentralised Aux"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Genesis, EIP1559 Front Runner, Web3 Wizard, ETH2.0"
+      "value": "Flex Your Flare, Digital Fashion, Across the Metaverse, ESPA Compatible"
     }
   ]
 }

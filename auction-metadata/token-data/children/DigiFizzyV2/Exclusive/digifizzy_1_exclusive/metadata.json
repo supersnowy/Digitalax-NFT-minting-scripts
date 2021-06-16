@@ -1,13 +1,13 @@
 {
-  "name": "SAVAGE",
-  "description": "When 9EN is traveling through the virtual realms of the Earth she stumbles upon a song called 'Savage' by Megan Thee Stallion. This NFT presents a tunnel trip featuring 'Savage' remixed by 9EN. 9EN (short for 9EN3TRIX) is the world’s first virtual DJ, Music Producer - artist.",
-  "external url": "https://open.spotify.com/artist/5WIcq7f5a1U1xnb3bpSxnz?si=JJQX9Z3kQO-RtcCVTcHb4w",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmeNXxmQD1d6D6XQsKcRfDgu7JLQnNgWrpKH6ktywoFQ97",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmaRjuBKoNbcYDBfTanzpnKMHKs6Du8SMEH4bDV1GAAARk",
+  "name": "PRIZEKICK",
+  "description": "The first XENOTECH Shoe—the kind that would be worn by an esoteric Extended Reality Architect in XENO City.",
+  "external_url": "https://drip.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXCf8t7ioZaQkFTQZvRFiwi3DfrdugdFj2wW9aZarC57d",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmbfrSPe1ALp1y8J6NhhVYRKHL1HQQZwZYHfN1JRYgLk4h",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "9EN"
+      "value": "XENOTECH"
     },
     {
       "trait_type": "Issue Name",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "AI Music, Solely Virtual, Immersive Audio"
+      "value": "Glass Ruby Laces, LED fabric, Digital Silver, Perforated Chrome, Video fabric, PrizeDevil Keychain, XENOTECH Plated Logo"
     }
   ]
 }

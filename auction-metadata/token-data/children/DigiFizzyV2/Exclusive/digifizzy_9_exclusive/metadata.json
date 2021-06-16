@@ -1,16 +1,17 @@
 {
-  "name": "Abdelhamid Bakhta",
-  "description": "To pay homeage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characteristaions; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this collection we are recognising some of the core contributors and front runners of EIP-1559— perhaps one of the most important economical updates for the entirety of Ethereum’s future and setting the ecosystem up for even more adoption success. ",
-  "external url": "https://github.com/abdelhamidbakhta",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/Qmdn8D4pYgaHx7H4v4JFbjcrHuLsaEf2VXinj6ta2KEvSd",
+  "name": "SAVAGE",
+  "description": "When 9EN is traveling through the virtual realms of the Earth she stumbles upon a song called 'Savage' by Megan Thee Stallion. This NFT presents a tunnel trip featuring 'Savage' remixed by 9EN. 9EN (short for 9EN3TRIX) is the world’s first virtual DJ, Music Producer - artist.",
+  "external_url": "https://open.spotify.com/artist/5WIcq7f5a1U1xnb3bpSxnz?si=JJQX9Z3kQO-RtcCVTcHb4w",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmeNXxmQD1d6D6XQsKcRfDgu7JLQnNgWrpKH6ktywoFQ97",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmaRjuBKoNbcYDBfTanzpnKMHKs6Du8SMEH4bDV1GAAARk",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "EIP1559 Front Runner"
+      "value": "9EN"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Open Commons & The Decentralised Aux"
+      "value": "The Open Commons & the Decentralised Aux"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -18,11 +19,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "7"
+      "value": "11"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Genesis, EIP1559 Front Runner, Web3 Wizard, ETH2.0"
+      "value": "AI Music, Solely Virtual, Immersive Audio"
     }
   ]
 }

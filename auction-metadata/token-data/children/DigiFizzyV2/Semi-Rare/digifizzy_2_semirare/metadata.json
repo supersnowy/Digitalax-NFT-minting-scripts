@@ -1,12 +1,12 @@
 {
-  "name": "Polaris X35 Suit",
-  "description": "Designed by Mia Locklace and modeled by Sarah Reikka, a French Canadian virtual influencer & model. DIGITALAX ran its first open digital fashion competition bringing together amazingly talented creators from across the realms, focused on enabling creatives for modding their version of the metaverse. The content champions of the competition have been included in the DIGIFIZZY content bundles, where buyers will also receive in-game ESPA compatible versions of these skins during the next ESPA esports launch, all hand-crafted in-house through the Global Designer Network.",
-  "external url": "https://digitalax.xyz/marketplace",
-  "image_url": "https://gateway.pinata.cloud/ipfs/QmdgEznyDpn1yhex8NZiFu9qL6CDR8owYF2D15pRdGu9ke",
+  "name": "Wear Your Values HRF Leap of Faith: All In",
+  "description": "The Wear Your Values campaign brings voice to both the exploitation, tyranny and oppression of workers along the supply chain, unseen Creators and more broadly highlighting the power of Fashion throughout all of this. The Human Rights Foundation is collaborating with DIGITALAX and Maria Ruano to draw attention to human rights concerns in closed societies, voice the importance of a globally transparent supply chain and bridge the Digi-Fizzy (Digital-Physical) realms for promoting positive compounding action & distributed content generation native to movements for social & economic change. The 3D glitched digital fashion scene highlights the tension between the cross over from the physical to the digital and how Creators of all kinds summon the courage to leap into the unknown and take a stance against exploitation.",
+  "external_url": "https://digifizzy.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmaLiEXzTWXbMcf5kD2DhRKQBaSNfcmJWSgvCNSjZkyCvt",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "Mia Locklace"
+      "value": "Human Rights Foundation, Maria Ruano, DIGITALAX"
     },
     {
       "trait_type": "Issue Name",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "6"
+      "value": "10"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "Flex Your Flare, Digital Fashion, Across the Metaverse, ESPA Compatible"
+      "value": "Wear Your Values, Human Rights Foundation, Digital Fashion"
     }
   ]
 }
