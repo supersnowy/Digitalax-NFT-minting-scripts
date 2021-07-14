@@ -1,5 +1,5 @@
 const fs = require('fs-extra');
-const pinataProvider = require('../providers/pinata');
+const pinataProvider = require('../pinata');
 const PinataIpfsService = require('./PinataIpfsService');
 const {syncHashToSubgraph} = require('./theGraphSyncService');
 
