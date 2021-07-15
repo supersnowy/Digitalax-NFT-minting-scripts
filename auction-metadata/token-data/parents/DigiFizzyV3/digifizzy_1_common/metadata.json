@@ -1,0 +1,33 @@
+{
+  "name": "DIGIFIZZY Issue Three Common Bundle",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the common unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; VR audio visual NFT by Anna Chilli, ABigNeonGlitter 3D Art collectibles, Exclusive DeFi DRIP Hoodies with NFT staking, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
+  "external_url": "https://www.digifizzy.xyz",
+  "animation_url": "https://digitalax.mypinata.cloud//ipfs/QmTY9s5AjT1QqSFZHid43jcciifN5sT1AzZwzjbnA7FrKc",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmRYJ9w8Lwr7sugLXroA3Xr2EaKSw49YUJsLBMWU43zHr9",
+  "attributes": [
+    {
+      "trait_type": "Issue No",
+      "value": "Three"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Utility of Fashion in A Time of DeFi-ance"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Anchor Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "12"
+    },
+    {
+      "trait_type": "DigiFizzy Pioneers",
+      "value": "DIGITALAX, Anna Chili, ABigNeonGlitter, TAKAII, Xenotech, Aave, Rafi Capital, Bancor Network, MakerDAO, Pickle Finance, Opyn, Zapper, Zerion, Polygon, POAP, Force DAO, INSTADAPP, Ruler Protocol, Fei Protocol."
+    }
+  ]
+}

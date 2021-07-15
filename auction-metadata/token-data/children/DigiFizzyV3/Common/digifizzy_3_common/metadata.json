@@ -1,0 +1,29 @@
+{
+  "name": "LED XENO Shirt",
+  "description": "This is a clear LED XENOTECH shirt. Fabrics used include clear digital vinyl, LED fabric, and video fabric.",
+  "external_url": "https://designers.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmQBFwfAiemW6bxJhq5dreQtusL3x9isRC1HSZBtcnkNmx",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmS2dTqFPpciKwXsEA7D5vnP7oWeGu3KtbgN5C8kwYcRq4",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Xenotech"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Utility of Fashion in A Time of DeFi-ance"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "12"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Clear digital vinyl, LED Fabric, Video Fabric Tag"
+    }
+  ]
+}

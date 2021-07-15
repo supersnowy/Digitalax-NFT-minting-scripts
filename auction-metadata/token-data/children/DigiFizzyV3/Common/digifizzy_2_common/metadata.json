@@ -1,0 +1,29 @@
+{
+  "name": "Infinite Zayman",
+  "description": "Anna Chili is a visual artist/entrepreneur/art shaman/ muralist/3d VR digital artist who lives in the San Francisco Bay Area. She is originally from Odessa, Ukraine. Infinite Zayman is a trip into her world.",
+  "external_url": "https://designers.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmWqbHXo4rkLyDqxHMmiUH1up2YQQsR8jtSQiN6aL6SD4M",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmbkUN7T2UauS9RReCqxX8cAM7d3RK3rZy1wxbn4u3jF8W",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Ana Chili"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Utility of Fashion in A Time of DeFi-ance"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "12"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Anna Chili, VR, Take a trip"
+    }
+  ]
+}

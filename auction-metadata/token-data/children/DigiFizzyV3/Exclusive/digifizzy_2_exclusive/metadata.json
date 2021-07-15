@@ -1,0 +1,28 @@
+{
+  "name": "Rune",
+  "description": "To pay homage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characterisations; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this edition we take our hats off to those that pioneered DeFi before anyone really even knew what it was. These are the DeFi Dealers.",
+  "external_url": "https://github.com/makerdao",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmUF6EWTbWpaakSQZ4jcViMaCfERN1Fj1iHTQM9WdKiM81",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Rune"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Utility of Fashion in A Time of DeFi-ance"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "14"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "DeFi Dealers, Web3 Wizards, MakerDAO"
+    }
+  ]
+}
