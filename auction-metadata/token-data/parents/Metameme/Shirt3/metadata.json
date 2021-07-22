@@ -1,0 +1,24 @@
+{
+  "name": "Leveling Warrior T-Shirt",
+  "description": "Combat mysterious forces across the realms and summon the gods of space and time to level up throughout your Lucid Adventure. The Metaversal DRIP collection was designed in-house by DIGITALAX— each item comes with a unique memetic patch minted on-chain as an NFT, an inventory claim ticket and ESPA XP.",
+  "external_url": "https://drip.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmVwvHQSBHxag4VUa26DNADzEJs64kB5YPPaTGrqmJiDz3",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Meta-Meme"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Fashion x DeFi, Metaversal, Memes of the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    }
+  ]
+}

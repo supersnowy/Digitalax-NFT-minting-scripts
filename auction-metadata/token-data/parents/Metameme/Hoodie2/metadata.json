@@ -1,0 +1,24 @@
+{
+  "name": "Tokyo Web Hoodie",
+  "description": "Keep pace with Shibuya Crossing as you begin your quest for GuildMaster and exchange a token of your pledge. The Metaversal DRIP collection was designed in-house by DIGITALAX— each item comes with a unique memetic patch minted on-chain as an NFT, an inventory claim ticket and ESPA XP.",
+  "external_url": "https://drip.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmY2WZT1umXjtFAX42Emuikq8LFJQysqFXdrjUL4tWTsC5",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Meta-Meme"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Fashion x DeFi, Metaversal, Memes of the Metaverse"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    }
+  ]
+}
