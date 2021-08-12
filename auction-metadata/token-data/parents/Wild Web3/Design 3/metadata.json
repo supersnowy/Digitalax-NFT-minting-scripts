@@ -1,0 +1,25 @@
+{
+  "name": "Auction 3 test w3fw",
+  "description": "W3FW test test.",
+  "external_url": "https://www.web3fashionweek.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmRW6p67RsbcHvBbeizL2TFX8YtfdhQpYf5Se3TwSTBLos",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmWNEiLjYpvDJMJZUBVTgEhSUcG5f1op8sisnPdkTza6V5",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Alexander Kurmanin"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3 Fashion"
+    },
+    {
+      "trait_type": "Full Bundle Inclusions",
+      "value": "FBX, Digital fashion Render, DressX try on filter, The First Dungeon PFP, Decentraland W3FW Mod Jacket"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    }
+  ]
+}
