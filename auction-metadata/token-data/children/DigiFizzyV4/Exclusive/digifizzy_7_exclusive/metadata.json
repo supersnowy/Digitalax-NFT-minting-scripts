@@ -1,17 +1,16 @@
 {
-  "name": "Alpha",
-  "description": "This token is a portal that was just waiting to turn into an NFT. Now your powers have increased. I always loved collecting; from holographic cards that came greasy in snack packages, to video-game tapes, toys, action figures, cups, magazines, phone cards… and I could name more. Oh the 90s! Today I am very excited about Non-Fungible Tokens and designing them to literally carry my traits around as a kind of rich information like DNA. At any time I can organize a collection and make these gems available for other digital hunters. I'm feeling so ready for this! ABigNeonGlitter is a 3D digital designer and part of the Global Designer Network.",
+  "name": "Web3 DeFi Fashion Male Collectible",
+  "description": "A high fidelity Web3 Digital Fashion x DeFi collectible. Stride in style as you wear to earn and mix look with liquidity.",
   "external_url": "https://designers.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/Qme7jnEGvKuXuMp69X6nnfdsmfbJnd7o7oXxK3AyUHTtPQ",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmTaVD5cWMkLYBnoJfnVW29SMyJixyf2so9oYsuT334LMs",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/Qmap6EopmaeAh41RtDYQPRntRdY8QpcDDYT2DVZT8fiCbU",
   "attributes": [
     {
       "trait_type": "Gatemaker",
-      "value": "ABigNeonGlitter"
+      "value": "DIGITALAX"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Utility of Fashion in A Time of DeFi-ance"
+      "value": "The Infinite Bazaar"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -19,11 +18,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "14"
+      "value": "15"
     },
     {
       "trait_type": "Unique Traits",
-      "value": "90s, Global Designer Network, 3D"
+      "value": "DIGITALAX, GDN"
     }
   ]
 }

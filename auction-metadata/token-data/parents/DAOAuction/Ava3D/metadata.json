@@ -1,29 +1,28 @@
 {
-  "name": "DeFi Shoe",
-  "description": "Inspired by Alexander McQueen's high pumps, the DeFi Shoe tells a story of our journey through decentralised finance. The dominant vamp and toe box structure representing just how loud of an impact this new age of finance had- it was strong and robust, scalable for a future of big innovation. \n\nLook closely on the heel to see Uniswap rising to the top, Yearn Finance at a prominent centre, AAVE, Compound and Maker working together in unison and Nexus Mutual directly below to save their fall.",
+  "name": "MuralX",
+  "description": "The futuristic urban artist.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmfHSdTmSqZ6P8kMAfWiPuF8Px4DbMDQ8msARt28oFzxGi",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Album Corvum"
+      "value": "Ava3D"
     },
     {
       "trait_type": "Collection",
-      "value": "Crypto Essentials"
+      "value": "Global Designer Network DAO Auction"
     },
     {
-      "trait_type": "Auction",
-      "value": "01"
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
     },
     {
-      "trait_type": "Outfit",
-      "value": "10"
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmbEB15eDeSgLdA7VWD5SRGBuYzRPoUt5FQnr5tki8TS4S"
     }
-  ],
-  "files": {
-    "image": "defiShoes_1k (2).gif",
-    "image_front_url": "Vlad_2k_Front (1) (1).png",
-    "image_quarter_url": "Vlad_2k_quarter (1) (1).png",
-    "image_side_url": "Vlad_2k_Side (1) (1).png",
-    "fbx_url": "master.fbx"
-  }
+  ]
 }

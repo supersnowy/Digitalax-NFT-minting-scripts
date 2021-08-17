@@ -1,0 +1,33 @@
+{
+  "name": "DIGIFIZZY Issue Four Common Bundle",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the common unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; W3FW Varsity Digital Fashion Decentraland Bomber Jacket, Web3 DeFi Fashion Female Collectible, The First Dungeon Unique In-Game Pixel Character and PFP, 20 years of San Francisco Dance Music Christopher and Paul Leath Audio NFTs, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
+  "external_url": "https://www.digifizzy.xyz",
+  "animation_url": "https://digitalax.mypinata.cloud//ipfs/QmdR8dszzFgSWzoZSWh1vrwagoSpkj1qCgrhiF9whyiYGu",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmQwCzeje8NzDfNCfvuNkv9YF4JdV4JbxHfxKA1D8UN5Nh",
+  "attributes": [
+    {
+      "trait_type": "Issue No",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Infinite Bazaar"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Anchor Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "13"
+    },
+    {
+      "trait_type": "DigiFizzy Pioneers",
+      "value": "DIGITALAX, Global Designer Network, W3FW, Thijmen Happy, Xenotech, Christopher and Paul Leath."
+    }
+  ]
+}
