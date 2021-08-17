@@ -1,0 +1,28 @@
+{
+  "name": "Fabian Vogelsteller",
+  "description": "To pay homage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characterisations; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this edition we are attributing those that set the standards for defining DeCo as we experience it today and for the future. The DeCo Definers.",
+  "external_url": "https://github.com/frozeman",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmdFTdZsGh47NjWv9Z6Fde59eQGyhT7pu9nzq61sj3DSjF",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Fabian Vogelsteller"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Infinite Bazaar"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "15"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "DeFi Dealers, Web3 Wizards, ERC20, ERC725"
+    }
+  ]
+}

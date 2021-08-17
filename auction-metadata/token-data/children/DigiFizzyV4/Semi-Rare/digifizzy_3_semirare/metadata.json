@@ -1,0 +1,28 @@
+{
+  "name": "Winged Glassversarial",
+  "description": "The first glass-winged XENOTECH garment.",
+  "external_url": "https://designers.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZfnHLjYj8SSgLPTEkqnuU2KZQYF45yWgD89bcDpEFgXC",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Xenotech"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Infinite Bazaar"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "14"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Glass-winged, Clear digital vinyl, LED Fabric, Video Fabric Tag"
+    }
+  ]
+}

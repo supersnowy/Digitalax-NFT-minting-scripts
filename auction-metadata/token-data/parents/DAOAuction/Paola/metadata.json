@@ -1,0 +1,28 @@
+{
+  "name": "Domingo",
+  "description": "A unisex Outfit made of half circles sewn into one suit that wraps around the body following a continuous line. You can wear it over your clothes or straight by itself to elevate your outfit at the beach or anywhere!",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmcopiCA4SHkJmNJTgsuu8mo2G95B5kFe5sx7s7a17GfaT",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Paola Olaguivel"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Global Designer Network DAO Auction"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmWiE4gPWCYExSpiFabVapNyVarRQHvfLwCwbLpvd5kNrZ"
+    }
+  ]
+}

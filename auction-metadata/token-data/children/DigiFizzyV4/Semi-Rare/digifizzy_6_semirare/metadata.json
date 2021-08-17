@@ -1,0 +1,28 @@
+{
+  "name": "Collectible 3D Digital Fashion W3FW Bomber Jacket",
+  "description": "The first of an upcoming collection of 12 designs, this design is inspired by activewear. Playing with fluid textures and fitted silhouettes Chrome Ziva reminds me of the strength of women.",
+  "external_url": "https://designers.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZMx3HexVsrbeWBRMKMST151Hfc4GBXQJtot9CDtqecJP",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Infinite Bazaar"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "14"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "DIGITALAX, GDN, W3FW"
+    }
+  ]
+}
