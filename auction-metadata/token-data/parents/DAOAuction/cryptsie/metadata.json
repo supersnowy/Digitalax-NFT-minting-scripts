@@ -1,0 +1,28 @@
+{
+  "name": "META ANGEL",
+  "description": "This rare and unique digital fashion item was created to visualize the beauty, greatness, power and unstoppability of crypto technology and digital fashion of the future.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmX651HgEqoRG1BisEXUUqZLvzHMr35xQTcqMin8iNua6s",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "Cryptsie"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "Global Designer Network DAO Auction"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Exclusive"
+  },
+  {
+    "trait_type": "Revolution",
+    "value": "Web3 Fashion Week 2021"
+  },
+  {
+    "trait_type": "3D File",
+    "value": "https://digitalax.mypinata.cloud/ipfs/QmYApLfn5dn8f9WdQJHqPWHFTVt4EgEbpXHmYRrzDpEbvM"
+  }
+ ]
+}

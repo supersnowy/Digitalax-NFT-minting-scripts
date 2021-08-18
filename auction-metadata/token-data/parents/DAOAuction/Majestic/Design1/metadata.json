@@ -1,0 +1,28 @@
+{
+  "name": "XENA",
+  "description": "XENA is a chess inspired piece. XENA features a mesh corset bodysuit, popping right under a chess printed jacket with a straight leather pant fastened with a Bolt at the upper hip on both side. And a wide brimmed hat to compliment the entire aesthetic.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmQAo8xDHHmbL23grEKZer3ebpzMQDDneZHNFkdYRUzzNy",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "Majestic Apparell"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "Global Designer Network DAO Auction"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Exclusive"
+  },
+  {
+    "trait_type": "Revolution",
+    "value": "Web3 Fashion Week 2021"
+  },
+  {
+    "trait_type": "3D File",
+    "value": "https://digitalax.mypinata.cloud/ipfs/QmcUgabxZPGnDrG13NrYfnTrRTvm16dt843MrLfd216jb2"
+  }
+ ]
+}
