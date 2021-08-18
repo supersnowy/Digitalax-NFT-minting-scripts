@@ -1,12 +1,12 @@
 {
-  "name": "Puffer",
-  "description": "A padded coat with a kitschy mood and multi-versed objects, materials such as glass, gems, velvet, and metals.",
+  "name": "In Virtuality Do",
+  "description": "Silk Denim for Classic Style.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmccUSSYvXxfwTNQxXZYSExpcwwVH3dV2aG9y6Mc5VfWRj",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Kima_jak3d"
+      "value": "Stella Achenbach"
     },
     {
       "trait_type": "Collection",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmegY9fDVZ4C4PoMc57aDycqLev4GcVzSKBC4uGGUxiQRr"
+      "value": "https://digitalax.mypinata.cloud/ipfs/"
     }
   ]
 }

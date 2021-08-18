@@ -1,12 +1,12 @@
 {
-  "name": "Puffer",
-  "description": "A padded coat with a kitschy mood and multi-versed objects, materials such as glass, gems, velvet, and metals.",
+  "name": "AsyPleat",
+  "description": "This design was an exploration of a more mysterious approach to fashion.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmccUSSYvXxfwTNQxXZYSExpcwwVH3dV2aG9y6Mc5VfWRj",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmVMpBEKYL9GY6hNWakTQGikVpSgkPAA6r9gF27Hm46mf3",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Kima_jak3d"
+      "value": "Tania MV Studio"
     },
     {
       "trait_type": "Collection",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmegY9fDVZ4C4PoMc57aDycqLev4GcVzSKBC4uGGUxiQRr"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmYazC7gRMmA2yMnYnh77BUNrboccHB2uu6ndE9Cfs2wJ3"
     }
   ]
 }

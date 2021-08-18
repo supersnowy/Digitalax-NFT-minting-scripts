@@ -1,12 +1,12 @@
 {
-  "name": "Puffer",
-  "description": "A padded coat with a kitschy mood and multi-versed objects, materials such as glass, gems, velvet, and metals.",
+  "name": "It's String Theory",
+  "description": "Why debate what you can't test?",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmccUSSYvXxfwTNQxXZYSExpcwwVH3dV2aG9y6Mc5VfWRj",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmYSAz3hj6sVk2zs8xV1BtQcPVvpiYcWejqCcWYq4bqnqi",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Kima_jak3d"
+      "value": "Lucii"
     },
     {
       "trait_type": "Collection",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmegY9fDVZ4C4PoMc57aDycqLev4GcVzSKBC4uGGUxiQRr"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmaWdRniXtwtdA6cZM5U9FR6BuDZBycZ5jQo8E5uJ8eR35"
     }
   ]
 }

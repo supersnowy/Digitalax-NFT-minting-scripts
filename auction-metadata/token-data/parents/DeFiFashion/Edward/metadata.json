@@ -1,12 +1,12 @@
 {
-  "name": "Puffer",
-  "description": "A padded coat with a kitschy mood and multi-versed objects, materials such as glass, gems, velvet, and metals.",
+  "name": "Hyper Plane",
+  "description": "As the edges glide through the billowing waves it creates are fractals in the night.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmccUSSYvXxfwTNQxXZYSExpcwwVH3dV2aG9y6Mc5VfWRj",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmfNXvUWc57Qox71xbE5YEYj3gDWuqrebVkxRguPZuVTSc",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Kima_jak3d"
+      "value": "Edward Harber"
     },
     {
       "trait_type": "Collection",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmegY9fDVZ4C4PoMc57aDycqLev4GcVzSKBC4uGGUxiQRr"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmbaJj3VcGz1LgQMrs8LmGza4srjvBWnmHtnzUL5gDyKfP"
     }
   ]
 }
