@@ -1,0 +1,28 @@
+{
+  "name": "XENOKICK Classic",
+  "description": "This is the classic XENOKICK. This NFT unlocks future airdrops of XENOTECH garments, mystery audio metaverse track and DIGIFIZZY Xenotech exclusive content.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmcGfTUY15QDaaCTUAe6AUtNokthNBSsGE3LkR7VdBKPKy",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Xenotech"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crazy Shoes"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmfFFAqNuQDCY6pUrXDSDXpr2cmWgGThsFiH77mfG7hyYG"
+    }
+  ]
+}

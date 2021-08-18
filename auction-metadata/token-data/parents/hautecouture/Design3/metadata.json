@@ -1,24 +1,28 @@
 {
-  "name": "Auction 3 test w3fw",
-  "description": "W3FW test test.",
-  "external_url": "https://www.web3fashionweek.xyz/",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmWNEiLjYpvDJMJZUBVTgEhSUcG5f1op8sisnPdkTza6V5",
+  "name": "Quest Coat",
+  "description": "QuestCoat is a digitised version of IRL QuestCoat created as a part of the award-winning fashion tech collection Vision Quest ( Grand Prix IOT/WT Innovation World Cup). The leading theme of the Vision Quest collection is enlightenment. Light technology  created with over 50 meters of the electroluminescent wire symbolises spiritual awaking, intellectual growth, evolution and progress. Silhouette is influenced by medieval Asian ceremonial-wear and Far East occasion-wear. Embroidery informed by the shapes of the modern architecture, was created with over 10 000 glass tubes.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmUCKUHG54AfMrBRopRJXcwnq2vgyMJYvZ1xTNKxDoeGAT",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Ava3D"
+      "value": "Joanna Hir"
     },
     {
       "trait_type": "Collection",
       "value": "Haute Couture"
     },
     {
-      "trait_type": "Full Bundle Inclusions",
-      "value": "FBX, Digital fashion Render, DressX try on filter, The First Dungeon PFP, Decentraland W3FW Mod Jacket"
-    },
-    {
       "trait_type": "Degree of Exclusivity",
       "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmeeGt4i1M9ng66GkVDrG6mJicBT8UAhhDuDH77v9hBaH2"
     }
   ]
 }

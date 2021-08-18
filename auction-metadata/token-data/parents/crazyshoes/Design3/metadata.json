@@ -1,25 +1,28 @@
 {
-  "name": "Auction 3 test w3fw",
-  "description": "W3FW test test.",
-  "external_url": "https://www.web3fashionweek.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmRW6p67RsbcHvBbeizL2TFX8YtfdhQpYf5Se3TwSTBLos",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmWNEiLjYpvDJMJZUBVTgEhSUcG5f1op8sisnPdkTza6V5",
+  "name": "XENOKICK Gold Edition",
+  "description": "This is the XENOKICK Gold Edition. This NFT unlocks future airdrops of XENOTECH garments, mystery audio metaverse track and DIGIFIZZY Xenotech exclusive content.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmUfaYhdWvseCCF9BhH68m6puVBrE81uLzS24rwXksjgfK",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Alexander Kurmanin"
+      "value": "Xenotech"
     },
     {
       "trait_type": "Collection",
       "value": "Crazy Shoes"
     },
     {
-      "trait_type": "Full Bundle Inclusions",
-      "value": "FBX, Digital fashion Render, DressX try on filter, The First Dungeon PFP, Decentraland W3FW Mod Jacket"
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
     },
     {
-      "trait_type": "Degree of Exclusivity",
-      "value": "Common"
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmXTqvnFkxHbHyhJvGUgdLdeRZGw67GyXjGqzgJYTNbCUQ"
     }
   ]
 }
