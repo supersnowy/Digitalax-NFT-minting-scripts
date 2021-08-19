@@ -1,0 +1,24 @@
+{
+  "name": "ELIZABETH",
+  "description": "Fashion is essentially staged. Clothes are not worn but interpreted. This is my homage to the time and to the Elizabethan theater.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmYftLKLJn4T8GxjwThSJwGcZYop23mc5WkW17K7bi2Ua3",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Crypto Deevo"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fashion x Art"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

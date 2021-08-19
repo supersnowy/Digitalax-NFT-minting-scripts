@@ -1,0 +1,24 @@
+{
+  "name": "Life. Death",
+  "description": "My time at this place.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmYwSi55voc2CcBF7Y1KwYVT29KyTGHNPMD5GfBsoFTkKz",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "AREZ"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Art x Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

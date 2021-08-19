@@ -1,0 +1,24 @@
+{
+  "name": "Walk the Line",
+  "description": "Fashion Film on the Runway.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmYvG1KnSt6mNj83KsbG6A71BhFK4zgT489bGTU5vue8TB",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Maria Pulido"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Art x Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

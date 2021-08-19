@@ -1,0 +1,24 @@
+{
+  "name": "Horizon",
+  "description": "My time at this place.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmXsEPwKXNavNDQ6ypdTL1B2bwn3M7RZBPtuQH6NskqgdB",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "AREZ"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Art x Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}
