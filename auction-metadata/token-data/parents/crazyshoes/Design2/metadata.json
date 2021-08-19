@@ -1,12 +1,12 @@
 {
-  "name": "Defenders",
-  "description": "Defenders are the shoes intended to protect their wearer in case of a sudden attack. Full of pop and style, they keep a secret. Once the creature on top gets the neuro signal of danger, the shoes come alive and just like that the offender is overcome.",
+  "name": "XENOKICK Lava Edition",
+  "description": "This is the XENOKICK Lava Edition. This NFT unlocks future airdrops of XENOTECH garments, mystery audio metaverse track and DIGIFIZZY Xenotech exclusive content.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZTQan5BsaB98GmGdQhH9Jwf6AGZVydyFB2SUbgBg3umE",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmThRMHxGQqDgdVA2oCswcxCBhzE9RwdnY6nCP5JQVJYiW",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Hadeeart"
+      "value": "Xenotech"
     },
     {
       "trait_type": "Collection",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Degree of Exclusivity",
-      "value": "Common"
+      "value": "Semi-Rare"
     },
     {
       "trait_type": "Revolution",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmedYFmaFQcLvSE2hxuMfpGrTeP7MkbCtepWu32TuYnWjK"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmTKwcbZxrK5jdtbgAnb5p8MTHhaGWBQTqHS5gzoaCSy1e"
     }
   ]
 }

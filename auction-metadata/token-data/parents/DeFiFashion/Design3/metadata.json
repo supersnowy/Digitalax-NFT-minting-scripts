@@ -1,0 +1,28 @@
+{
+  "name": "Maker My Pants",
+  "description": "Maker Maker Maker my pants.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmagE4J7AFkake36S3asxZh3FcGWQ8Y4vLvmoDqFehtPPA",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Porka_X"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmdR7sG5Vu9VyHS3PpQUWpFrdpfMognMYRGdRGZMJ1zyhK"
+    }
+  ]
+}
