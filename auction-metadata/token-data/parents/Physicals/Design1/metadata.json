@@ -1,0 +1,24 @@
+{
+  "name": "GDN 2021 Varsity Jacket",
+  "description": "Suit up in the official Global Designer Network 2021 Varsity Jacket. Web3 Fashion Week is hosted by DIGITALAX and the Global Designer Network. The GDN are the Web3 Fashion Anarchists, revolutionising the traditional legacy fabric.",
+  "external_url": "http://drip.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmUrJqfLVRhgwco8L7VmrThyhtpGsgptryJiL8N1bs3gC6",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "W3FW Physicals"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

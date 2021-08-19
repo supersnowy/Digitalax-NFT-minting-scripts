@@ -1,0 +1,24 @@
+{
+  "name": "W3FW 2021 Varsity Jacket",
+  "description": "Suit up in the official W3FW 2021 Varsity Jacket. Web3 Fashion Week is hosted by DIGITALAX and the Global Designer Network. We are liberating the entire fashion industry and revolutionising its legacy fabric.",
+  "external_url": "http://drip.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmU1WSVkA8sp2abWvuw3pVJNNGJsHiSFH2UAExgdn4iuje",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "W3FW Physicals"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}
