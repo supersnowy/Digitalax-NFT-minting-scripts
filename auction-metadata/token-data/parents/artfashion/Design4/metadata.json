@@ -21,4 +21,27 @@
       "value": "Web3 Fashion Week 2021"
     }
   ]
+}{
+  "name": "LOUIS",
+  "description": "History is provocation. This garment is inspired by the 1668 Grand Divertissement Royal in Versailles, the most sumptuous entertainment in history. In the center he shines: Louis XIV, the sun king.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmSpLD6uavY3cyLZdjyyz8DioLEc3FocsszLDAt6BUfqMS",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Crypto Deevo"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fashion x Art"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
 }
