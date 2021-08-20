@@ -1,0 +1,28 @@
+{
+  "name": "AAVE Couture",
+  "description": "Lend and borrow in style. We're off to the races with this one. TVL can only go up from here.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmbRNkaFSmZBDpwqsGc3kTimbJFKUKVxbs24p9zjnPxyNm",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DomingoBeta"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmVSwNaDn9jxkwdqobqWiSXLms7k6qetDz598CvqthpJze"
+    }
+  ]
+}

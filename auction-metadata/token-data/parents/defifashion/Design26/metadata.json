@@ -1,0 +1,32 @@
+{
+  "name": "Ruler Digi Socks",
+  "description": "Digital socks, colorfully inspired by Ruler Protocol. Collaborated on by Mo'Casso and Tania MV Studio.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmPVjhd7QutoQ39Ggyc8RyDraU9HGybre9SgM5CvQGqbS7",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mo'Casso"
+    },
+    {
+      "trait_type": "Designer2",
+      "value": "Tania MV Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/Qmac8o1FiiZJPMkZiT6f8Sp8V6RNdwSMnv3iZXCtqHti6U"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "AAVE Full Body Suit",
+  "description": "Digital full body suit, colorfully inspired by AAVE protocol. Collaborated on by Mo'Casso and Tania MV Studio.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmQRiJ11iG7QsJrEQueF5LxjFWrucBDeJvsVVoFx5MUxbq",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mo'Casso"
+    },
+    {
+      "trait_type": "Designer2",
+      "value": "Tania MV Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmUTMSX737YGNXWJWAATq4mRy1tBkrWYwKfs4yyXJzvumm"
+    }
+  ]
+}

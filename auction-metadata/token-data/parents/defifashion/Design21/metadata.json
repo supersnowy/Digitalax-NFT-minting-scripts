@@ -1,0 +1,32 @@
+{
+  "name": "AAVE Digi Socks",
+  "description": "Digital socks, colorfully inspired by AAVE. Collaborated on by Mo'Casso and Tania MV Studio.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmTi8rie1uEeaBq5ikfH3mhdcnsXxKmgaW3GFicc129Sto",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mo'Casso"
+    },
+    {
+      "trait_type": "Designer2",
+      "value": "Tania MV Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmWL8uhfk54yH9XnG5jtSwrYSnoymhQUpVscXZLCA8qqmm"
+    }
+  ]
+}

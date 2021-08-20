@@ -1,0 +1,28 @@
+{
+  "name": "Hawaiian Pickle",
+  "description": "Just chillin.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmdbXcKMFetX1dfGSz5X9jHHjkkLEYkFwMfuBLzQMNn2V7",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cryptsie"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "DeFi Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/Qmdxha9MRmGRhucCwyaPWVt5xGB26qYWZnzrwXgyEiT8KV"
+    }
+  ]
+}
