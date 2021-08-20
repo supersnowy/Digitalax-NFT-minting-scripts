@@ -1,0 +1,32 @@
+{
+  "name": "Made for Mo Digi Socks",
+  "description": "Digicore socks. Collaborated on by Mo'Casso and Tania MV Studio.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmXBPEVLAuQbd6oPrknFLVMYgN8t3qf5GraXYbwFRBt81e",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mo'Casso"
+    },
+    {
+      "trait_type": "Designer2",
+      "value": "Tania MV Studio"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmR6YK2GSgAumnD42nmBP7PMb2eHj43jgsiQmFCCPJsAL5"
+    }
+  ]
+}

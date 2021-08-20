@@ -1,0 +1,28 @@
+{
+  "name": "Grey Baller",
+  "description": "Another formal impression made immutable through this NFT.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/Qmf118xneeA6198npyZxmFvyisqQVZ5LK4Bov72RD5a2Va",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Aisha"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmbkkxbGFUw6ZArA7mHKbiQP4QKwH3BbyKQMqomxcYmbrL"
+    }
+  ]
+}

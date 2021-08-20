@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Kitty Shirt",
+  "description": "Your favorite furry friends now afloat amongst the translucent clouds, drifting across the cyberscape. Once thought to be a joke is now rarity and royalty.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmQw9x59DKiF5HydDYvGkATGVrPqDUK756XHScs7jpQNty",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Fountane Virtual"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/Qmez3yQMTK8PUNVVVv8nqyXHtUWJ6znbC1na6MNsRiHwNG"
+    }
+  ]
+}

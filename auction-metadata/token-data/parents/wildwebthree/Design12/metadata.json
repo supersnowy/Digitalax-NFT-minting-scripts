@@ -1,0 +1,28 @@
+{
+  "name": "Color Me Happy",
+  "description": "Warning. Wearing this jacket might result in it surpassing all other wardrobe looks. Dress with caution.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmPzKTSzipxL8vfeVCDJ6tWeeUSkkN2uZcP1PBbjY3o7JA",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Porka_X"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmNvHYrLCtpSVn6qYjo8WZEf3Ri9XqfBic1sdVNxhDk61q"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "NEXUS-K",
+  "description": "High Tech meets High Fashion. Designed by Blade Runway, the NEXUS-K is a futuristic iridescent jacket. A minimalistic look spiced up by a glitching animation displayed on a digital screen-fabric.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZQ1Je8HnRF63sheLZK5jqkmf9ac1yb2jvAxDZL6DkADi",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Blade Runway"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Wild Web3"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmUJRMaJkvf4LwM2mp51LSu9Yns5AUcYYiH1LCpN13pcxJ"
+    }
+  ]
+}

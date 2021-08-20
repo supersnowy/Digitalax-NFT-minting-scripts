@@ -1,0 +1,28 @@
+{
+  "name": "Black Quartz",
+  "description": "Look 03 of the forthcoming collection entitled [SOFTWEAR] by hybrid fashion brand Hiro Sol by Adam Reid. Jacquard Jacket / Oversized Mock Neck Sweatshirt / Belted Jacquard. Tapered Pants / SOFTWEAR Sock Runners.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmdiE7YxVYf6bWucmUJXjYCAEDshS3Nw98KUVC6FLeEp6D",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "Adam Reid"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "Wild Web3"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Semi-Rare"
+  },
+  {
+    "trait_type": "Revolution",
+    "value": "Web3 Fashion Week 2021"
+  },
+  {
+    "trait_type": "3D File",
+    "value": "https://digitalax.mypinata.cloud/ipfs/QmU5YmCBwuPMjjUVDnqabKZCSW8PN6q6w8HpomJgEd1m1X"
+  }
+ ]
+}

@@ -1,28 +1,32 @@
 {
-  "name": "Wedged Out",
-  "description": "These shoes can be worn with your choice of jewelry, laces, rings and ribbons. More - is better!",
+  "name": "Aired",
+  "description": "Each CL-1 has an air filtration mechanism that is powered when it’s worn. LCD screens on the back as smog visualization. Air pumps on front. Each shoe also comes with a snapchat AR Filter",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXLzjKW3R1Y8dJgtmbSECqknTgwV9SBuahp7riFt7hrR3",
-  "attributes": [
-    {
-      "trait_type": "Designer",
-      "value": "Daria Permina"
-    },
-    {
-      "trait_type": "Collection",
-      "value": "Crazy Shoes"
-    },
-    {
-      "trait_type": "Degree of Exclusivity",
-      "value": "Semi-Rare"
-    },
-    {
-      "trait_type": "Revolution",
-      "value": "Web3 Fashion Week 2021"
-    },
-    {
-      "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmbMbRX1tvQA7pue3mUZN1VS2jAhaJTVNd12V7m2ZbtFto"
-    }
-  ]
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmeNHSsiGu3ZrXrzY7c3bGRfg2yBmZPy4RCPsKjpAwZP1K",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "Technological Hippie"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "Crazy Shoes"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Common"
+  },
+  {
+    "trait_type": "Revolution",
+    "value": "Web3 Fashion Week 2021"
+  },
+  {
+    "trait_type": "3D File",
+    "value": "https://digitalax.mypinata.cloud/ipfs/QmSd4rJze4YPVLmjZupyW9aGGwie7G6C1DhimnSqMiW682"
+  },
+  {
+    "trait_type": "Snapchat AR Link",
+    "value": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=25f9ccbe665742f19878b694b7d17698&metadata=01"
+  }
+ ]
 }
