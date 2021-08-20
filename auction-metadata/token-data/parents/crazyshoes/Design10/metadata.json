@@ -1,0 +1,28 @@
+{
+  "name": "Portal",
+  "description": "High spinning and out of this world.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmaFEtTTYTDLNd8fN86BjQVXPRTGdv9h5A2Pn11yBRfjRm",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DomingoBeta"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crazy Shoes"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmcLAYDhRHvPZEwuJ9ZsQjp4xHWDHkVABgcaQDTNBcz76W"
+    }
+  ]
+}

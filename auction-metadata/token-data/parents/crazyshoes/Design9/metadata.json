@@ -1,0 +1,28 @@
+{
+  "name": "Sneakers 1",
+  "description": "Fan-Tasm Collection. Sneaker model belonging to the collectible fan-tasm that will be released soon. Each owner will be sent their corresponding NFT when it launches. They will come with a surprise NFT.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZvs1tTksnkPXuh26TKvXFTUSzSLBwrn1dmqjtQDawEy8",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DomingoBeta"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crazy Shoes"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmSr3L3cpabqoZXHTWEo5be36f6xgUjiLQMTM1RCjFRxqh"
+    }
+  ]
+}

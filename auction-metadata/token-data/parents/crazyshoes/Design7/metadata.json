@@ -1,0 +1,28 @@
+{
+  "name": "Wedged Out",
+  "description": "These shoes can be worn with your choice of jewelry, laces, rings and ribbons. More - is better!",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXLzjKW3R1Y8dJgtmbSECqknTgwV9SBuahp7riFt7hrR3",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Daria Permina"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crazy Shoes"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmbMbRX1tvQA7pue3mUZN1VS2jAhaJTVNd12V7m2ZbtFto"
+    }
+  ]
+}

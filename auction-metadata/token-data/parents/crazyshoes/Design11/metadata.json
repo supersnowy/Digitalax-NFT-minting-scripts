@@ -1,0 +1,28 @@
+{
+  "name": "W3FW Sneakers",
+  "description": "The digital sneakers was inspired by the DIGITALAX community -    incredibly talented and friendly people at GDN.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmS1V11dXB79quB2aWYgiqQFG5mVF13YbVjLMYRFbrmRkZ",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Cryptsie"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Crazy Shoes"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmYDcgccLRNMXmXVt74hiFWUpMbWkBPynzPktF76ekhnuT"
+    }
+  ]
+}
