@@ -1,0 +1,28 @@
+{
+  "name": "Chip",
+  "description": "The chip ring is based on the patterns you see on a motherboard.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmY6shbo4htkMWPTfRGwkS3Hwe7Jp4xVXatcizib9mV663",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Clogged Mind"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Jewelry and Accessories"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmYt6mAyq5LJ9wvGnPMxBiixpxgNsRNdxSNKbTFqHLLNM4"
+    }
+  ]
+}

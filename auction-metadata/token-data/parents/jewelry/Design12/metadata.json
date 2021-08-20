@@ -1,0 +1,28 @@
+{
+  "name": "Raptor Ring",
+  "description": "Mining liquid emeralds.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZpdobCRnvAX3g5bkULme65ieQkHkNud5FdWvivnFH3oL",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Edward Harber"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Jewelry and Accessories"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmdZHyBA7o4kmpKEBAdKHNVtd9EnD5rbecT2jQcWQaryLR"
+    }
+  ]
+}

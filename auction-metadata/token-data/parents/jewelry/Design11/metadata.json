@@ -1,0 +1,28 @@
+{
+  "name": "PIN",
+  "description": "The pin ring is a ring designed for the underground techno scene.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmSNPJzkGz33qx9weipApCgq6wZ8D8xcsJTZ5vwdWk6e5Q",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Clogged Mind"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Jewelry and Accessories"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmadCjTs6TVR5hoUsrJcGVR99bzPu2iv57G94zKYToGvGs"
+    }
+  ]
+}
