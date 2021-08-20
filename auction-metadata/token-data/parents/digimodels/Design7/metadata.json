@@ -1,0 +1,24 @@
+{
+  "name": "Red",
+  "description": "Red is a fierce and bold model who loves being in the limelight! She’s got a dramatic look that is great for high fashion and editorial.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmPMqZ2gNSKiniyjofTkhFq7XSXcye29QwgRdTHZG9keej",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Elijah Thurston"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Web3 Digi Models"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

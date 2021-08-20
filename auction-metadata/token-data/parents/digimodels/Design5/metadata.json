@@ -1,0 +1,28 @@
+{
+  "name": "Web3 Kaftan",
+  "description": "Serah global.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmVYyDwvSG1DcJ6iNmGb7aBD144GarefUHb1CnUFYp1wcY",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Mia Locklace"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Web3 Digi Models"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/Qmcw21Y3aC1UULYUqB1djtxy9k2MjcfpuAPJjAgGrUjpR8"
+    }
+  ]
+}

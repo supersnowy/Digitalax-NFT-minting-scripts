@@ -1,0 +1,24 @@
+{
+  "name": "Orion",
+  "description": "Orion is a classy guy who knows how to advertise a garment. He radiates confidence and authenticity.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmQP2QbTMWTqrp1c85Y76WZo54rMC9bi187YYqdfFZgjGi",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Elijah Thurston"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Web3 Digi Models"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}

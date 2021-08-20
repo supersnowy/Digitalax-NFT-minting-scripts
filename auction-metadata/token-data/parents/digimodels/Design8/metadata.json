@@ -1,0 +1,24 @@
+{
+  "name": "Nova",
+  "description": "Nova is a spunky androgynous model who loves out-of-the-box and bizarre fashions! She is all about expression and creativity!",
+  "external_url": "http://skins.digitalax.xyz/",
+  "image": "https://digitalax.mypinata.cloud/ipfs/QmR71hJAX123MUPxKzJSUsAXmuHCDdGWnCXSqjcxqU2ZuJ",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "Elijah Thurston"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Web3 Digi Models"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    }
+  ]
+}
