@@ -1,12 +1,12 @@
 {
-  "name": "Platonic Solids Ring",
-  "description": "Inside of this ring is Johannes Kepler's vision of the universe. This is inspired by Kepler's Platonic Solids model. This NFT unlocks future airdrops of XENOTECH garments, mystery audio metaverse track and DIGIFIZZY Xenotech exclusive content.",
+  "name": "Hawk Cuff",
+  "description": "Capture it all.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmZTQan5BsaB98GmGdQhH9Jwf6AGZVydyFB2SUbgBg3umE",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmfG72uFuCrmeceb66JHkh9ynSYvZ5tBofpFAwybATJQK9",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Xenotech"
+      "value": "Edward Harber"
     },
     {
       "trait_type": "Collection",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Degree of Exclusivity",
-      "value": "Exclusive"
+      "value": "Semi-Rare"
     },
     {
       "trait_type": "Revolution",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmPNTSJEa9P62BJqxCzTGo2TYUXCsP7CNdkUFRXhPTM9YV"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmbxRK8nYMWXR5aVZX9RdrqK4jJDhaFTEW78ookQYjDkyt"
     }
   ]
 }
