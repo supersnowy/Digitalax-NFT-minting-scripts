@@ -1,0 +1,28 @@
+{
+  "name": "100 in 100",
+ "description": "100% protection in 100 days. Why worry about IL? Don't be silly, pool with Bancor.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmPuvBiptoQbkRKAgC7uLDh1XWkZYBk2CtxfNtu7fgDccL",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "Stan Mclygin"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "DeFi Fashion"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Semi-Rare"
+  },
+  {
+    "trait_type": "Revolution",
+    "value": "Web3 Fashion Week 2021"
+  },
+  {
+    "trait_type": "3D File",
+    "value": "https://digitalax.mypinata.cloud/ipfs/QmdSgs3FcJsN2BkLJ9mdJw9L6phvR65FnywasNRuXzLhRv"
+  }
+ ]
+}
