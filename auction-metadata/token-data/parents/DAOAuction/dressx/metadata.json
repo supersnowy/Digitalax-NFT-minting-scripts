@@ -1,0 +1,28 @@
+{
+  "name": "Lava Catsuit",
+  "description": "The ultimate uniform for a party in the Metaverse. With lava lamp bubbles gravitating around the digital look, your image has no chance to go unnoticed.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmVdzEK5nyVbt6kPeZzZhNJp1ztPfZUkWPzemFn1E1ok6f",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DressX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Global Designer Network DAO Auction"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmXQteeRgXwDQfSQskUGvoNS8f5J3tRa93uKbiAYksW7pP"
+    }
+  ]
+}

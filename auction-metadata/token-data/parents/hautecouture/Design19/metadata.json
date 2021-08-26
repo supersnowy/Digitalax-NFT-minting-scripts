@@ -1,0 +1,28 @@
+{
+  "name": "Lily Dress",
+  "description": "A flamboyant Lily Dress was made to be worn by the Queen of the Discoverse. With its contouring silhouette and a lavender tulle flaring out of the metallic 3D fabric, the outfit will perfectly fit a digital red carpet, as well as your Friday night social media post.",
+  "external_url": "http://skins.digitalax.xyz/",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmQKhRgZpPuWbrNmcupZFm83tuFtdD7vKCw7Tnkrf3fxKh",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DressX"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Haute Couture"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Revolution",
+      "value": "Web3 Fashion Week 2021"
+    },
+    {
+      "trait_type": "3D File",
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmVU1m4kzHkoPa3ej3RQVRauEQWC5eyNw8g2u7T8GwVwF9"
+    }
+  ]
+}
