@@ -1,12 +1,12 @@
 {
-  "name": "Bloody Mary",
-  "description": "Chant repeatedly and then mod it all to find the cure.",
+  "name": "Resveratrol Neon",
+  "description": "Resveratrol Couture dress.",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/Qmags847WuYiWeU9RJWoMDhYH3ZfdHSxtDS1PiBQD4ZLze",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmXizJGispSNxNs6owCb7rLRxNWMBAnp4sSeQ2kNYRPSzr",
   "attributes": [
     {
       "trait_type": "Designer",
-      "value": "Maria Pulido"
+      "value": "Placebo-DFH"
     },
     {
       "trait_type": "Collection",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmZ9XK7gUX61crEPiH2vR2teWm2tGjdsgSG4PrqMQAEnnx"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmXEWABBraeA57FnVBVf39R2XFo8hgiKCN78FrPMFMJ5RR"
     }
   ]
 }

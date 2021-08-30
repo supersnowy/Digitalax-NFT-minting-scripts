@@ -1,8 +1,8 @@
 {
-  "name": "XENOKICK GDN Edition",
-  "description": "This is the Global Designer Network Edition of the XENOKICK.",
+  "name": "Pickle Finance Suit",
+  "description": "Take off in this Pickle Finance Suit!",
   "external_url": "http://skins.digitalax.xyz/",
-  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmT1hf54dyMqcfehVL15KHuQ2EocsudoxfxZHSAzjCHkwa",
+  "animation_url": "https://digitalax.mypinata.cloud/ipfs/QmSUhZacoGnKmZGbrV9tSqotQfkCSiwNYf9b6R1hyH9w4C",
   "attributes": [
     {
       "trait_type": "Designer",
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Collection",
-      "value": "Global Designer Network DAO Auction"
+      "value": "DeFi Fashion"
     },
     {
       "trait_type": "Degree of Exclusivity",
-      "value": "Exclusive"
+      "value": "Common"
     },
     {
       "trait_type": "Revolution",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "3D File",
-      "value": "https://digitalax.mypinata.cloud/ipfs/QmVAHkFB171amTcLnE1t835FAuwVfpacnyWZEPJzLtSsSf"
+      "value": "https://digitalax.mypinata.cloud/ipfs/QmS6Apm4cfEUhZPeaL7obadae8MUHAiVZ8WR3TrUE9AicB"
     }
   ]
 }
