@@ -1,0 +1,24 @@
+{
+  "name": "Pool 'n' Chill Tee",
+  "description": "It's V3. Just Chill. Bancor is a decentralized trading protocol that lets you trade tokens and earn interest on your favorite tokens by staking them in Bancor’s decentralized exchange.",
+  "external_url": "https://drip.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmRir57fzao5pWvuCxkWazkVuqKmU2f7k6CEQy19ubX3yL",
+"attributes": [
+  {
+    "trait_type": "Designer",
+    "value": "DIGITALAX x Global Designer Network"
+  },
+  {
+    "trait_type": "Collection",
+    "value": "Bancor Network"
+  },  
+  {
+    "trait_type": "Unique Traits",
+    "value": "Fashion x DeFi, Wear to DeFi"
+  },
+  {
+    "trait_type": "Degree of Exclusivity",
+    "value": "Common"
+  }
+ ]
+}
