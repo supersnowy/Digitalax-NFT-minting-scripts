@@ -1,0 +1,33 @@
+{
+  "name": "DIGIFIZZY Issue Five Common Bundle",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the common unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; Cryptsie 3D digital fashion collectibles, LOOK varsity jacket, Get Dressed 2D Ticket, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
+  "external_url": "https://www.digifizzy.xyz",
+  "animation_url": "https://digitalax.mypinata.cloud//ipfs/QmXaATfLNjMMqutErb7p7Xb76Zf2v9eCFNW79UmeoqT9LT",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/Qmcfm7tvWSA7DitLUgrBzvuDT7VMReDhUcRo1bZAhWyU8v",
+  "attributes": [
+    {
+      "trait_type": "Issue No",
+      "value": "Five"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Metaverse Multipass"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Anchor Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "18"
+    },
+    {
+      "trait_type": "DigiFizzy Pioneers",
+      "value": "DIGITALAX, Global Designer Network, Fashion Loot, LOOK, Identity, Cryptsie."
+    }
+  ]
+}

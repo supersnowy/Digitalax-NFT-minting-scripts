@@ -1,0 +1,24 @@
+{
+  "name": "LOOK Loot Varsity Jacket #2",
+  "description": "LOOK is the first experiment in composable text-generative metaverse fashion. A derivative of the Loot project. Rep this varsity IRL and start designing for LOOK!",
+  "external_url": "https://drip.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmScwV6Q8a1Nc1yaybJYbTTcxnX36uHzwvKuM8UyunHiKg",
+  "attributes": [
+    {
+      "trait_type": "Designer",
+      "value": "DIGITALAX x Global Designer Network"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "LOOK: Fashion Loot"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "LOOK, Fashion Loot, Composable Fashion"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Common"
+    }
+  ]
+}
