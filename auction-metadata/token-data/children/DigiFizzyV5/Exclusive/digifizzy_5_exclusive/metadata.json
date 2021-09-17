@@ -1,0 +1,28 @@
+{
+  "name": "Kevin Owocki",
+  "description": "To pay homage to the often overlooked lionhearts within the web3 community— the devs— we are introducing Web3 Wizards; an ongoing series of on-chain NFT web3 dev characterisations; spotlighting new devs every issue, all designed and minted in-house by DIGITALAX. For this edition of Web3 Wizards we are paying it back to the devs pioneering web3 authentication, decentralised identity management and blockchain native encapsulations of ourselves. These devs are the real Identity Meddlers.",
+  "external_url": "https://github.com/owocki",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmUJB6HXCmZxWZbAwi8cCQpJ7rqCZx38E5YTYnPXwTt4SD",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "Kevin Owocki"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Metaverse Multipass"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "20"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "Identity Meddlers, Web3 Wizards"
+    }
+  ]
+}

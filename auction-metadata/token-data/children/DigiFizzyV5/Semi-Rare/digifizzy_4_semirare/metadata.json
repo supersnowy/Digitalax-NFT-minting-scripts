@@ -1,0 +1,28 @@
+{
+  "name": "LOOK Varsity Jacket",
+  "description": "LOOK is a derivative of the Loot project and the first on-chain generative text fashion experiment. Rep this jacket IRL!",
+  "external_url": "https://designers.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmcM2jGA1fT3DeVPYEL5VT7xbDtwQ31cpVyn2msgMkDUvh",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "DIGITALAX"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Metaverse Multipass"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Semi-Rare"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "20"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "DRIP, LOOK"
+    }
+  ]
+}

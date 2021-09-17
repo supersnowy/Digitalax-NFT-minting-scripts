@@ -1,0 +1,28 @@
+{
+  "name": "Get Dressed 3D + In-Game Ticket",
+  "description": "Get measured by the web3 tailors. Take a look at the menu of what’s in season and tell us how good you want to look. The metaverse awaits your style. This Get Dressed Ticket grants you a 3D fashion design from the Global Designer Network and also a mod in-game compatibility to Minecraft. You will be emailed more details about how you can put through your outfit order! If you choose to include open source patterns, materials or textures, these 1155 NFTs are also linked under the Fractional Garment Ownership standard.",
+  "external_url": "https://designers.digitalax.xyz/",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmWEbWNna5KXofGA6MfNriG9mg9J36hkmrWtAC1KHYXHVd",
+  "attributes": [
+    {
+      "trait_type": "Gatemaker",
+      "value": "GDN"
+    },
+    {
+      "trait_type": "Issue Name",
+      "value": "The Metaverse Multipass"
+    },
+    {
+      "trait_type": "Degree of Exclusivity",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Collection ID",
+      "value": "20"
+    },
+    {
+      "trait_type": "Unique Traits",
+      "value": "GDN, LOOK, Fashion Loot"
+    }
+  ]
+}

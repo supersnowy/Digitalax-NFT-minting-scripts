@@ -1,17 +1,17 @@
 {
   "name": "DIGIFIZZY Issue Four Exclusive Bundle",
-  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the exclusive unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; W3FW Varsity Digital Fashion Decentraland Bomber Jacket + Digital Fashion 3D Collectible + Physical W3FW Jacket, Web3 DeFi Fashion Male and Female Collectible, The First Dungeon Unique In-Game Pixel Character and PFP, 20 years of San Francisco Dance Music DOSC and JKind Audio NFTs, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
+  "description": "DIGIFIZZY is the first of its kind. It’s architected for the metaverse, bringing together creators, anarchists, risk takers and dreamers across web3, fashion, gaming, art, music, crypto and NFTs, to prove out a completely new publishing distribution model. DIGIFIZZY is for the gatemakers. For the exclusive unlockable ERC-998 bundle you can burn your 721 NFT to receive 1155 NFT treasures; Cryptsie 3D digital fashion collectibles, LOOK varsity jacket, Get Dressed 3D + In-Game Ticket, Web3 Wizards Collectibles, Deco Only Fans behind the scenes content + access to unlockable magazine content pages.",
   "external_url": "https://www.digifizzy.xyz",
-  "animation_url": "https://digitalax.mypinata.cloud//ipfs/QmWiexBsYCLeHqCn3geNzrYH3xkpzgFzjNE1SGsbE3pUap",
-  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmYRQtydskRAEudTzLfFt4i8iLL35WvtNVv4UZRna6Mz5N",
+  "animation_url": "https://digitalax.mypinata.cloud//ipfs/QmbitQnE8P8DUs8W2Kx1npADeXsfoY36bK7QAtwfQ87fsW",
+  "image_url": "https://digitalax.mypinata.cloud/ipfs/QmfU3tJPi4UShqP7XTfrZM9JbFj3W6o3QfBYi1pVCpApTx",
   "attributes": [
     {
       "trait_type": "Issue No",
-      "value": "Four"
+      "value": "Five"
     },
     {
       "trait_type": "Issue Name",
-      "value": "The Infinite Bazaar"
+      "value": "The Metaverse Multipass"
     },
     {
       "trait_type": "Degree of Exclusivity",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Collection ID",
-      "value": "15"
+      "value": "20"
     },
     {
       "trait_type": "DigiFizzy Pioneers",
-      "value": "DIGITALAX, Global Designer Network, W3FW, Thijmen Happy, Xenotech, DOSC, J-Kind."
+      "value": "DIGITALAX, Global Designer Network, Fashion Loot, LOOK, Identity, Cryptsie."
     }
   ]
 }
